@@ -1,0 +1,271 @@
+﻿@{
+    ViewBag.Title = "Reset Password";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style type="text/css">
+    :focus {
+        outline: 2px solid #FF0000 !important;
+    }
+</style>
+<div>
+    <div class="col-lg-8 col-lg-offset-2">
+        <div class="panel-group">
+            <div class="panel panel-default">
+                <div class="panel-heading"><h4 class="panel-title">Reset Password</h4></div>
+                <div class="panel-body">
+                    <div class="row form-group">
+                        <div class="col-md-12">
+                            <div class="alert-warning center" style="margin-bottom: 10px; padding:10px;display:none;" id="dvMessage"></div>                           
+                                <form name="formAdd" id="popupForm" action="">
+                                    <div class="row form-group">
+                                        <div class="col-md-4">
+                                            <label for="oldPassword">
+                                                Old Password
+                                            </label>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <input type="text" id="txtoldPassword" name="oldPassword" class="required form-control" style="text-security: disc;
+    -webkit-text-security: disc;"/>
+                                        </div>
+                                    </div>
+                                    <div class="row form-group">
+                                        <div class="col-md-4">
+                                            <label for="newPassword">
+                                                New Password
+                                            </label>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <input type="text" id="txtNewPassword" name="newPassword" class="required form-control" style="text-security: disc;
+    -webkit-text-security: disc;"/>
+                                        </div>
+                                    </div>
+                                    <div class="row form-group">
+                                        <div class="col-md-4">
+                                            <label for="Confirmpassword">
+                                                Confirm New Password
+                                            </label>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <input type="text" id="txtConfirmPassword" name="Confirmpassword" class="required form-control" style="text-security: disc;
+    -webkit-text-security: disc;"/>
+                                        </div>
+                                    </div>
+                                    <div class="row form-group">
+                                        <div class="col-md-12">
+                                            <button type="button" class="btn btn-warning" id="btnReset" data-myvalue="@ViewBag.UserInfo.IsNewPassword">
+                                                Reset
+                                            </button>
+                                            <button type="button" class="btn btn-success" id="btnChange" data-myvalue="@ViewBag.UserInfo.Id">
+                                                Change Password
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>                            
+                            </div>
+                        </div>
+                            <!--Page Content end---------------------->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                <script type="text/javascript">
+
+                    $(document).ready(function () {
+                        $("#btnChange").attr("disabled", true);
+                    });
+                    $("input").keyup(function () {
+                        HideMessage();
+                        if (MandatoryCheckValidation()) {
+                            $("#btnChange").attr("disabled", false);
+                        }
+                        else {
+                            $("#btnChange").attr("disabled", true);
+                        }
+                    });
+
+                    function PasswordCheck(value) {
+
+                        //var value = "1234@123";
+                        var regx = /^[A-Za-z0-9@@ _]+$/;
+
+                        if (regx.test(value)) {
+                            if (value.length >= 6 && value.length <= 20) {
+                                return true;
+                            }
+                            else {
+                                return false;
+                            }
+                        }
+                        else
+                            return false;
+                    }
+
+                    $("#btnChange").click(function () {
+                        ShowProgress();
+                        if (MandatoryCheckValidation()) {
+                            if (MatchPasswordValidation()) {
+                                if (PasswordCheck($.trim($("#txtNewPassword").val()))) {
+                                    $("#txtNewPassword").parent().find('span').remove();
+                                    var r = confirm("Are you sure you want to change password!");
+                                    if (r == true) {
+                                        var resetPassword = {
+                                            OldPassword: $.trim($("#txtoldPassword").val()),
+                                            UserId: $.trim($("#btnChange").attr("data-myValue")),
+                                            NewPassword: $.trim($("#txtNewPassword").val()),
+                                            UpdatedBy: $.trim($("#btnChange").attr("data-myValue"))
+                                        };
+
+                                        var parameter = JSON.stringify({ resetPassword: resetPassword });
+                                        $.ajax({
+                                            type: "POST",
+                                            url: "/ResetPassword/ResetPassword",
+                                            contentType: 'application/json; charset=utf-8',
+                                            dataType: 'json',
+                                            async: false,
+                                            data: parameter,
+                                            success: function (result) {
+                                                if (result == "0") {
+                                                    var isNewUser = $.trim($("#btnReset").attr("data-myValue").toLowerCase());
+                                                    ResetPage();
+                                                    if (isNewUser == "true") {
+
+                                                        HideProgress();
+
+                                                        toastr.success("Password changed successfully");
+                                                        var url = window.location.href;
+                                                        var newUrl = url.replace("ResetPassword/Index", "Account/Login");
+                                                        window.location.href = newUrl;
+                                                    }
+                                                    else {
+                                                        toastr.success("Password changed successfully");
+                                                        HideProgress();
+                                                    }
+                                                }
+                                                else if (result == "2") {
+                                                    HideProgress();
+                                                    toastr.error("Old Password is incorrect");
+                                                }
+                                                else {
+                                                    HideProgress();
+                                                    toastr.error('DB Error:' + 'Error code ' + result + ' returned from db');
+                                                }
+                                            },
+                                            error: function (result) {
+                                                HideProgress();
+                                                toastr.error('Error-' + result);
+                                            }
+                                        });
+                                    }//if (r == true)
+                                }
+                                else {
+                                    HideProgress();
+                                    var span = $('<span class="alert-warning error-message-span">Password should be: 1. alpha numeric  2. Length Should be between 6 and 20. 3. Only special characters- {@@ and underscore}. should be use </span>');
+                                    $("#txtNewPassword").parent().find('span').remove();
+                                    $("#txtNewPassword").parent().append($(span));
+                                }//regex
+                            }//matchPassword
+                            else {
+                                HideProgress();
+                            }
+                        }//mandatory
+                        else {
+                            HideProgress();
+                        }
+
+                    });
+
+                    $("#btnReset").click(function () {
+                        ResetPage();
+                    });
+                    // Function to check letters and numbers
+
+                    var MandatoryCheckValidation = function () {
+                        var err = [];
+
+                        /*Mandatory Check start for input types*/
+                        $(".required").each(function () {
+                            if ($(this) != undefined && $(this) != null) {
+                                var id = $.trim($(this)[0].id);
+                                var value = $.trim($("#" + id).val());
+
+                                if (value == undefined || value == null || value == "") {
+                                    var span = $('<span class="alert-warning error-message-span">Mandatory Field</span>');
+                                    $("#" + id).parent().find('span').remove();
+                                    $("#" + id).parent().append($(span));
+                                    err.push(false);
+                                }
+                                else {
+                                    $("#" + id).parent().find('span').remove();
+                                }
+                                /*Mandatory Check end*/
+                            } //if end
+                        }); //ng-required
+                        /*Mandatory Check ends for input types*/
+
+                        //end
+                        if ($.inArray(false, err) >= 0) {
+                            return false;
+                        }
+                        return true;
+                    }
+
+                    var MatchPasswordValidation = function () {
+
+                        var old_pwd = $.trim($("#txtoldPassword").val().toLowerCase());
+                        var new_pwd = $.trim($("#txtNewPassword").val().toLowerCase());
+                        var confirm_new_pwd = $.trim($("#txtConfirmPassword").val().toLowerCase());
+
+                        //if(regexVal.test(new_pwd)) {
+                        if (old_pwd != confirm_new_pwd) {
+                            $("#txtoldPassword").parent().find('span').remove();
+                            if (new_pwd === confirm_new_pwd) {
+                                $("#txtConfirmPassword").parent().find('span').remove();
+                                return true;
+                            }
+                            else {
+                                var span = $('<span class="alert-warning error-message-span">Confirm Password should match with new password.</span>');
+                                $("#txtConfirmPassword").parent().find('span').remove();
+                                $("#txtConfirmPassword").parent().append($(span));
+                                return false;
+                            }
+
+                            return true;
+                        }
+                        else {
+                            var span = $('<span class="alert-warning error-message-span">New Password should not be same as old password.</span>');
+                            $("#txtoldPassword").parent().find('span').remove();
+                            $("#txtoldPassword").parent().append($(span));
+
+                            return false;
+                        }
+                        //}
+                        //else
+                        //{
+                        //    var span = $('<span class="alert-warning error-message-span">Password should be alphanumeric.</span>');
+                        //    $("#txtNewPassword").parent().find('span').remove();
+                        //    $("#txtNewPassword").parent().append($(span));
+                        //}
+
+                    }
+
+                    var ResetPage = function () {
+                        $("input[type='text']").each(function () {
+                            $(this).val('');
+                            $(this).parent().find('span').remove();
+                        });
+
+                        $("#btnChange").attr("disabled", true);
+                        HideMessage();
+                    }
+
+                    var ShowMessage = function (message) {
+                        $("#dvMessage").html('').append(message);
+                        $("#dvMessage").css("display", "block");
+                    }
+                    var HideMessage = function () {
+                        $("#dvMessage").html('');
+                        $("#dvMessage").css("display", "none");
+                    }
+                </script>

@@ -1,0 +1,39 @@
+C:\New\eCustomerCRM\Customer.API\Customer.Model\bin\Release\Customer.Model.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Model\bin\Release\Customer.Model.pdb
+C:\New\eCustomerCRM\Customer.API\Customer.Model\bin\Release\Newtonsoft.Json.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Model\bin\Release\Newtonsoft.Json.xml
+C:\New\eCustomerCRM\Customer.API\Customer.Model\obj\Release\Customer.Model.csproj.AssemblyReference.cache
+C:\New\eCustomerCRM\Customer.API\Customer.Model\obj\Release\Customer.Model.csproj.CoreCompileInputs.cache
+C:\New\eCustomerCRM\Customer.API\Customer.Model\obj\Release\Customer.Model.csproj.CopyComplete
+C:\New\eCustomerCRM\Customer.API\Customer.Model\obj\Release\Customer.Model.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Model\obj\Release\Customer.Model.pdb
+D:\Customer.API\Customer.API\Customer.Model\bin\Release\Customer.Model.dll
+D:\Customer.API\Customer.API\Customer.Model\bin\Release\Customer.Model.pdb
+D:\Customer.API\Customer.API\Customer.Model\bin\Release\CopilotDev.NET.Api.dll
+D:\Customer.API\Customer.API\Customer.Model\bin\Release\Newtonsoft.Json.dll
+D:\Customer.API\Customer.API\Customer.Model\bin\Release\Newtonsoft.Json.xml
+D:\Customer.API\Customer.API\Customer.Model\obj\Release\Customer.Model.csproj.AssemblyReference.cache
+D:\Customer.API\Customer.API\Customer.Model\obj\Release\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Customer.API\Customer.API\Customer.Model\obj\Release\Customer.4DF6732B.Up2Date
+D:\Customer.API\Customer.API\Customer.Model\obj\Release\Customer.Model.dll
+D:\Customer.API\Customer.API\Customer.Model\obj\Release\Customer.Model.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\bin\Release\Customer.Model.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\bin\Release\Customer.Model.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\bin\Release\CopilotDev.NET.Api.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\bin\Release\Newtonsoft.Json.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\bin\Release\Newtonsoft.Json.xml
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\obj\Release\Customer.Model.csproj.AssemblyReference.cache
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\obj\Release\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\obj\Release\Customer.4DF6732B.Up2Date
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\obj\Release\Customer.Model.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\obj\Release\Customer.Model.pdb
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\bin\Release\Customer.Model.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\bin\Release\Customer.Model.pdb
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\bin\Release\CopilotDev.NET.Api.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\bin\Release\Newtonsoft.Json.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\bin\Release\Newtonsoft.Json.xml
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\obj\Release\Customer.Model.csproj.AssemblyReference.cache
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\obj\Release\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\obj\Release\Customer.4DF6732B.Up2Date
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\obj\Release\Customer.Model.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\obj\Release\Customer.Model.pdb

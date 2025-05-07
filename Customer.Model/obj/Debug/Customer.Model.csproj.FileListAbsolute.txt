@@ -1,0 +1,82 @@
+D:\Projects\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.pdb
+D:\Projects\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.AssemblyReference.cache
+D:\Projects\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Projects\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.pdb
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.pdb
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.AssemblyReference.cache
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CopyComplete
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.AssemblyReference.cache
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CopyComplete
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.AssemblyReference.cache
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CopyComplete
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.AssemblyReference.cache
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CopyComplete
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.pdb
+C:\New\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Customer.Model.pdb
+C:\New\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\CopilotDev.NET.Api.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.xml
+C:\New\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.AssemblyReference.cache
+C:\New\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CoreCompileInputs.cache
+C:\New\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.4DF6732B.Up2Date
+C:\New\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Model\obj\Debug\Customer.Model.pdb
+D:\Customer.API\Customer.API\Customer.Model\bin\Debug\Customer.Model.dll
+D:\Customer.API\Customer.API\Customer.Model\bin\Debug\Customer.Model.pdb
+D:\Customer.API\Customer.API\Customer.Model\bin\Debug\CopilotDev.NET.Api.dll
+D:\Customer.API\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Customer.API\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.xml
+D:\Customer.API\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.AssemblyReference.cache
+D:\Customer.API\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Customer.API\Customer.API\Customer.Model\obj\Debug\Customer.4DF6732B.Up2Date
+D:\Customer.API\Customer.API\Customer.Model\obj\Debug\Customer.Model.dll
+D:\Customer.API\Customer.API\Customer.Model\obj\Debug\Customer.Model.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\bin\Debug\Customer.Model.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\bin\Debug\Customer.Model.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\bin\Debug\CopilotDev.NET.Api.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.xml
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.AssemblyReference.cache
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\obj\Debug\Customer.4DF6732B.Up2Date
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\obj\Debug\Customer.Model.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Model\obj\Debug\Customer.Model.pdb
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\bin\Debug\Customer.Model.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\bin\Debug\Customer.Model.pdb
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\bin\Debug\CopilotDev.NET.Api.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\bin\Debug\Newtonsoft.Json.xml
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.AssemblyReference.cache
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\obj\Debug\Customer.Model.csproj.CoreCompileInputs.cache
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\obj\Debug\Customer.4DF6732B.Up2Date
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\obj\Debug\Customer.Model.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.Model\obj\Debug\Customer.Model.pdb

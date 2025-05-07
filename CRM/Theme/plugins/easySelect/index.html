@@ -1,0 +1,176 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <title>easySelect: Advanced Multiselect Component Examples</title>
+     <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+     <link rel="stylesheet" href="easySelectStyle.css">
+     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+     <script src="easySelect.js"></script>
+     <style>
+        html,* { font-family: 'Roboto'; }
+
+html body {
+    height: 100%;
+    background-color: #fafafa;
+    overflow-y: auto
+}
+     </style>
+ </head>
+
+ <body><div id="jquery-script-menu">
+<div class="jquery-script-center">
+<ul>
+<li><a href="https://www.jqueryscript.net/form/advanced-multiselect-easy.html">Download This Plugin</a></li>
+<li><a href="https://www.jqueryscript.net/">Back To jQueryScript.Net</a></li>
+</ul><div id="carbon-block"></div>
+<div class="jquery-script-ads"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="jquery-script-clear"></div>
+</div>
+</div>
+     <div class="row" style="margin:150px auto">
+        <h1 style="text-align:center;">easySelect: Advanced Multiselect Component Examples</h1>
+         <div class="column" style="">
+             <select id="demo1" data-max="" multiple="multiple" style="">
+                 <option value="Lightblue">Lightblue</option>
+                 <option value="Green">Green</option>
+                 <option value="Yellow">Yellow</option>
+                 <option value="Blue Samoa">Blue</option>
+                 <option value="Pink">Pink</option>
+                 <option value="Black">Black</option>
+                 <option value="Orange">Orange</option>
+             </select>
+         </div>
+         <div class="column" style="">
+             <select id="demo3" data-max="5" multiple="multiple" style="">
+                 <option value="Volvo">Volvo</option>
+                 <option value="Opel">Opel</option>
+                 <option value="Audi">Audi</option>
+                 <option value="Dodge">Dodge</option>
+                 <option value="Toyota">Toyota</option>
+                 <option value="Mercedes">Mercedes</option>
+                 <option value="Tesla">Tesla</option>
+
+             </select>
+         </div>
+         <div class="column" style="">
+             <select id="demo" data-max="6" multiple="multiple">
+                 <option value="Afganistan">Afghanistan</option>
+                 <option value="Albania">Albania</option>
+                 <option value="Algeria">Algeria</option>
+                 <option value="American Samoa">American Samoa</option>
+                 <option value="Andorra">Andorra</option>
+                 <option value="Angola">Angola</option>
+                 <option value="Anguilla">Anguilla</option>
+                 <option value="Antigua & Barbuda">Antigua & Barbuda</option>
+                 <option value="Argentina">Argentina</option>
+                 <option value="Armenia">Armenia</option>
+                 <option value="Aruba">Aruba</option>
+                 <option value="Australia">Australia</option>
+                 <option value="Austria">Austria</option>
+                 <option value="Azerbaijan">Azerbaijan</option>
+                 <option value="Bahamas">Bahamas</option>
+                 <option value="Bahrain">Bahrain</option>
+                 <option value="Bangladesh">Bangladesh</option>
+                 <option value="Barbados">Barbados</option>
+                 <option value="Belarus">Belarus</option>
+                 <option value="Belgium">Belgium</option>
+                 <option value="Belize">Belize</option>
+                 <option value="Benin">Benin</option>
+                 <option value="Bermuda">Bermuda</option>
+                 <option value="Bhutan">Bhutan</option>
+                 <option value="Bolivia">Bolivia</option>
+                 <option value="Bonaire">Bonaire</option>
+                 <option value="Bosnia & Herzegovina">Bosnia & Herzegovina</option>
+                 <option value="Botswana">Botswana</option>
+                 <option value="Brazil">Brazil</option>
+                 <option value="British Indian Ocean Ter">British Indian Ocean Ter</option>
+                 <option value="Brunei">Brunei</option>
+                 <option value="Bulgaria">Bulgaria</option>
+                 <option value="Burkina Faso">Burkina Faso</option>
+                 <option value="Burundi">Burundi</option>
+                 <option value="Cambodia">Cambodia</option>
+                 <option value="Cameroon">Cameroon</option>
+                 <option value="Canada">Canada</option>
+                 <option value="Canary Islands">Canary Islands</option>
+                 <option value="Cape Verde">Cape Verde</option>
+             </select>
+         </div>
+     </div>
+ </body>
+
+ </html>
+ <script>
+     $("#demo").easySelect({
+         buttons: true, //
+         search: true,
+         placeholder: 'Choose Country',
+         placeholderColor: '#524781',
+         selectColor: '#524781',
+         itemTitle: 'Countrys selected',
+         showEachItem: true,
+         width: '80%',
+         dropdownMaxHeight: '450px',
+     })
+     $("#demo1").easySelect({
+         buttons: true,
+         search: true,
+         placeholder: 'Choose color',
+         placeholderColor: 'violet',
+         selectColor: 'lila',
+         itemTitle: 'Color selected',
+         showEachItem: true,
+         width: '50%',
+         dropdownMaxHeight: '450px',
+     })
+     $("#demo3").easySelect({
+         buttons: true, //
+         search: true,
+         placeholder: 'Pick Car',
+         placeholderColor: 'green',
+         selectColor: '#524781',
+         itemTitle: 'Car selected',
+         showEachItem: true,
+         width: '80%',
+         dropdownMaxHeight: '450px',
+     })
+ </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script>
+try {
+  fetch(new Request("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", { method: 'HEAD', mode: 'no-cors' })).then(function(response) {
+    return true;
+  }).catch(function(e) {
+    var carbonScript = document.createElement("script");
+    carbonScript.src = "//cdn.carbonads.com/carbon.js?serve=CK7DKKQU&placement=wwwjqueryscriptnet";
+    carbonScript.id = "_carbonads_js";
+    document.getElementById("carbon-block").appendChild(carbonScript);
+  });
+} catch (error) {
+  console.log(error);
+}
+</script>

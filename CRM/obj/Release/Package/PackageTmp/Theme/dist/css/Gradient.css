@@ -1,0 +1,725 @@
+.LoginBackgorund {
+  background: linear-gradient(to right,#4b205a, #BA55D3)
+}
+.GradientModelHeader {
+  background: linear-gradient(to right,#4b205a, #BA55D3) !important;
+}
+.Gradientbutton {
+  background: linear-gradient(to right,#4b205a, #BA55D3);
+  border: none;
+  color: white;
+  padding: 5px 13px !important;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 1px 0px;
+  cursor: pointer;
+  border-radius: .25rem;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+  .Gradientbutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.Gradientbutton {
+  /*background: linear-gradient(168.1deg,#9600FF,#AEBAF8);*/
+  background: linear-gradient(to right,#4b205a, #BA55D3);
+  color: white;
+  padding: 7px 17px !important;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: .25rem;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  border:none;
+}
+
+  .GradientAddbutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+
+.MenuListHover:hover {
+  background: #6aa25d;
+  color: #f7f7f7;
+}
+.GradientText {
+  color: #813588 !important;
+}
+.GradientTextSize {
+  font-size:12px;
+  font-family:'Times New Roman';
+  text-transform:uppercase !important;
+}
+.Gradientcard-outline {
+  border-top: 2px solid #813588;
+}
+
+ul.scroll {
+  max-height: 500px;
+  overflow-y: auto;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+}
+/*custom select*/
+.Gradient-inpuHeight {
+  height: 30px !important;
+  line-height: 1 !important;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  font-size:.875rem;
+  /*width:100%;
+  border: 1px solid blue;
+  font-size:12px !important;
+  font-family:'Times New Roman' !important;*/
+}
+.Gradient-inpuHeightForTable {
+  height: 30px !important;
+  line-height: 1 !important;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  width: 100%;
+  font-size: 12px !important;
+  font-family: 'Times New Roman' !important;
+  border:none !important
+}
+
+
+/**/
+
+#pluswrap {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.21);
+  top: 0;
+  z-index: 2222202930;
+}
+
+.plus {
+  display: flex;
+  margin: 0 auto;
+}
+
+/*custom scrollbar */
+/*::-webkit-scrollbar {
+  width: 8px;
+}
+
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 6px;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: silver;
+  border-radius: 6px;
+}*/
+
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #6c757d;
+  }
+
+/*Custom Paggination*/
+.pagination .page-item.active .page-link {
+  background-color: #813588;
+}
+
+div.dataTables_wrapper div.dataTables_paginate ul.pagination .page-item.active .page-link:focus {
+  background-color: #813588;
+}
+
+.pagination .page-item.active .page-link:hover {
+  background-color: #4b205a;
+}
+.pagination > li > a {
+  background-color: white;
+  color: #813588;
+}
+table.dataTable tbody th, table.dataTable tbody td {
+  padding: 0px 12px 4px; /* e.g. change 8x to 4px here */
+  font-size: 12px;
+}
+
+/*table.dataTable th {
+  background-color: #17a2b8;
+  color: white;
+  font-family: 'Times New Roman';
+  font-size: 13px;
+}*/
+  
+
+.BoldText{
+  font-weight:bold !important;
+  font-size:12px !important;
+}
+
+.TableColorHeader {
+  background-color: whitesmoke !important;
+}
+
+
+
+
+
+
+
+
+
+/*.GradientdataTable tbody th, .GradientdatadataTable tbody td, .GradientdatadataTable tfoot th {
+  padding: 0px 12px 4px;
+  font-size: 12px;
+}*/
+
+.GradientdataTable th {
+  /*background-color: whitesmoke !important;
+  font-family: 'Times New Roman';
+  font-size: 12px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-transform: uppercase !important;*/
+  color: black;
+  font-family: sans-serif;
+  font-size: 10px;
+  padding: 8px 12px 8px 12px;
+}
+
+.GradientdataTable td {
+  /*font-family: 'Times New Roman';
+  font-size: 11px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;*/
+  color: black;
+  font-family: sans-serif;
+  font-size: 13px;
+  padding: 8px 12px 8px 12px;
+}
+
+.GradientTable th {
+  background-color: whitesmoke !important;
+  font-family: 'Times New Roman';
+  font-size: 12px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-t ransform: uppercase !important;
+  border-bottom:1px solid blue !important
+}
+
+.GradientTable td {
+  font-family: 'Times New Roman';
+  font-size: 11px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  border: 1px solid blue !important
+}
+
+.GradientPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: 'Times New Roman';
+  font-size: 10px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+}
+
+.GradientPdfdataTable td {
+  font-family: 'Times New Roman';
+  font-size: 10px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+}
+
+.SelectListBigdropdown {
+  width: 350px !important;
+}
+
+.GradientDisabled {
+  background-color: #e9ecef !important;
+  opacity: 1 !important;
+  pointer-events:none;
+}
+.select2-selection__rendered {
+  line-height:20px !important;
+}
+
+.select2-container .select2-selection--single {
+  height: 30px !important;
+}
+
+.select2-selection__arrow {
+  height: 20px !important;
+}
+.select2-container .select2-selection--multiple {
+  height: auto !important;
+  min-height: unset !important;
+  margin-top: unset !important;
+  overflow: hidden !important;
+}
+
+.select2-selection__choice {
+  background-color: #9600FF !important;
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background-color: #9600FF !important;
+}
+
+/*Custome check box*/
+/* The container */
+.GradientCheckboxcontainer {
+  display: block;
+  position: relative;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+  /* Hide the browser's default checkbox */
+  .GradientCheckboxcontainer input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 15px;
+  width: 15px;
+  background-color: white;
+  border-radius: 4px;
+  border: 1px solid #9600FF;
+}
+
+/* On mouse-over, add a grey background color */
+.GradientCheckboxcontainer:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.GradientCheckboxcontainer input:checked ~ .checkmark {
+  background-color: #9600FF;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.GradientCheckboxcontainer input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.GradientCheckboxcontainer .checkmark:after {
+  left: 5px;
+  top: 2px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+/**/
+
+/*Create Custom Radio*/
+/* The container */
+.GradientRadiocontainer {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+  /* Hide the browser's default radio button */
+  .GradientRadiocontainer input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+  }
+
+/* Create a custom radio button */
+.GradientRadiocontainercheckmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.GradientRadiocontainer:hover input ~ .GradientRadiocontainercheckmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.GradientRadiocontainer input:checked ~ .GradientRadiocontainercheckmark {
+  background-color: #2196F3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.GradientRadiocontainercheckmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.GradientRadiocontainer input:checked ~ .GradientRadiocontainercheckmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.GradientRadiocontainer .GradientRadiocontainercheckmark:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+/**/
+.Wrap {
+  word-wrap: break-word;
+  max-width: 100px !important;
+}
+.DetailsPageHeader {
+  padding:10px !important;
+  height:50px !important;
+}
+.SubDetailsPageHeader {
+  padding: 10px !important;
+  height: 30px !important;
+  padding-top:4px !important;
+}
+.DetailsTitle {
+  font-size:14px !important;
+  font-weight:bold !important;
+  color:#333 !important;
+  font-family:'Times New Roman';
+  text-transform:uppercase !important;
+}
+
+
+.GradientCostsheetPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align:left !important;
+}
+
+.GradientCostsheetPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align:left !important;
+}
+
+.GradientBOMPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientBOMPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientBOMPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientBOMPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientGRNPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientGRNPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientPRCPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientPRCPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientDNPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientDNPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientJOPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientJOPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientOPOPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientOPOPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientShrinkagePdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientShrinkagePdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientFIPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientFIPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientTIPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientTIPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientMICPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientMICPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientPackingListPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientPackingListPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientShipmentEntryPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientShipmentEntryPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+.GradientShipmentInvoicePdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientShipmentInvoicePdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientMRCPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientMRCPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientIRCPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientIRCPdfdataTable td {
+  font-family: Times New Roman !important;
+  font-size: 14px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-align: left !important;
+}
+
+.GradientBOPdfdataTable th {
+  /*background-color: whitesmoke !important;*/
+  font-family: 'Times New Roman';
+  font-size: 12px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+  text-transform:uppercase !important;
+}
+
+.GradientBOPdfdataTable td {
+  font-family: 'Times New Roman';
+  font-size: 12px !important;
+  padding: 2px 4px 2px !important;
+  color: black !important;
+}
+
+

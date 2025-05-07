@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRM\\Areas",
+    "\\CRM\\Areas\\User",
+    "\\CRM\\Areas\\User\\Views",
+    "\\CRM\\Areas\\User\\Views\\Account",
+    "\\Customer.BusinessLogic",
+    "\\Customer.Data.Application",
+    "\\Customer.Model"
+  ],
+  "SelectedNode": "\\CRM",
+  "PreviewInSolutionExplorer": false
+}

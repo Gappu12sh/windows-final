@@ -1,0 +1,129 @@
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\bin\Release\Customer.Data.Application.dll.config
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\bin\Release\Customer.Data.Application.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\bin\Release\Customer.Data.Application.pdb
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.SqlServer.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.xml
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.SqlServer.xml
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.csproj.AssemblyReference.cache
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingNewEntities.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.partyContactEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.alterAddressTypePartyAddressEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addIsActiveLookupEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addContactEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addGstCertificateFieldPartyAddressEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addPhoneEmailListEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addContactMapping.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatePartyMasterEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatePartyEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingMaterialEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.deletingExtraFieldMaterialEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingProductIdInMaterialEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingQuotationEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingUserModule.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingUserDetailsEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.PermissionNModuleEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addIsActivePermissionEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addIsModule.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.csproj.GenerateResource.cache
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.csproj.CoreCompileInputs.cache
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.csproj.CopyComplete
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.dll
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.pdb
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatePermissionEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updateEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingContactEntity.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.AddingQuotationDate.resources
+C:\New\eCustomerCRM\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingQuotationEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\bin\Release\Customer.Data.Application.dll.config
+D:\Customer.API\Customer.API\Customer.Data.Application\bin\Release\Customer.Data.Application.dll
+D:\Customer.API\Customer.API\Customer.Data.Application\bin\Release\Customer.Data.Application.pdb
+D:\Customer.API\Customer.API\Customer.Data.Application\bin\Release\CopilotDev.NET.Api.dll
+D:\Customer.API\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.dll
+D:\Customer.API\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.SqlServer.dll
+D:\Customer.API\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.xml
+D:\Customer.API\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.SqlServer.xml
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.csproj.AssemblyReference.cache
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingNewEntities.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.partyContactEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.alterAddressTypePartyAddressEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addIsActiveLookupEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addContactEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addGstCertificateFieldPartyAddressEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addPhoneEmailListEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addContactMapping.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatePartyMasterEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatePartyEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingMaterialEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.deletingExtraFieldMaterialEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingProductIdInMaterialEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingQuotationEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingUserModule.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingUserDetailsEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.PermissionNModuleEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addIsActivePermissionEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addIsModule.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatePermissionEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updateEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingContactEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.AddingQuotationDate.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingQuotationEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingPurchaseOrder.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingPoEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingSampleNoPOEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingPurchaseOrderEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingPODEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingPODEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingPODDate.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingPartyIdPOEntity.resources
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.csproj.GenerateResource.cache
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.csproj.CoreCompileInputs.cache
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.6FA77A1E.Up2Date
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.dll
+D:\Customer.API\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\bin\Release\Customer.Data.Application.dll.config
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\bin\Release\Customer.Data.Application.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\bin\Release\Customer.Data.Application.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\bin\Release\CopilotDev.NET.Api.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.SqlServer.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.xml
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\bin\Release\EntityFramework.SqlServer.xml
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.csproj.AssemblyReference.cache
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingNewEntities.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.partyContactEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.alterAddressTypePartyAddressEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addIsActiveLookupEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addContactEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addGstCertificateFieldPartyAddressEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addPhoneEmailListEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addContactMapping.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatePartyMasterEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatePartyEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingMaterialEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.deletingExtraFieldMaterialEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingProductIdInMaterialEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingQuotationEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingUserModule.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingUserDetailsEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.PermissionNModuleEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addIsActivePermissionEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addIsModule.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatePermissionEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updateEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingContactEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.AddingQuotationDate.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingQuotationEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingPurchaseOrder.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingPoEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingSampleNoPOEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingPurchaseOrderEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingPODEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingPODEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.updatingPODDate.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.Migrations.addingPartyIdPOEntity.resources
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.csproj.GenerateResource.cache
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.csproj.CoreCompileInputs.cache
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.6FA77A1E.Up2Date
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.Data.Application\obj\Release\Customer.Data.Application.pdb

@@ -1,0 +1,220 @@
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll.config
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.pdb
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CopyComplete
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.pdb
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.pdb
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.pdb
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.xml
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.pdb
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll.config
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll.config
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.pdb
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.pdb
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll.config
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.pdb
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.pdb
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.xml
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CopyComplete
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.dll
+D:\Projects\eCustomerCRM\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll.config
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll.config
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.xml
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CopyComplete
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll.config
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll.config
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.xml
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CopyComplete
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll.config
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll.config
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CopyComplete
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.pdb
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll.config
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.pdb
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.dll
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\CopilotDev.NET.Api.dll
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.dll
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.dll
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.pdb
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll.config
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.pdb
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.pdb
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.xml
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.xml
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.AssemblyReference.cache
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.47400F53.Up2Date
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.dll
+C:\New\eCustomerCRM\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.pdb
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll.config
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.pdb
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\CopilotDev.NET.Api.dll
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.dll
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.dll
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.pdb
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll.config
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.pdb
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.pdb
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Customer.API\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.xml
+D:\Customer.API\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.AssemblyReference.cache
+D:\Customer.API\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Customer.API\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.47400F53.Up2Date
+D:\Customer.API\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.dll
+D:\Customer.API\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll.config
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\CopilotDev.NET.Api.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll.config
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.pdb
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.xml
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.AssemblyReference.cache
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.47400F53.Up2Date
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.dll
+D:\Customer.API_2 - Copy\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.pdb
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll.config
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.BusinessLogic.pdb
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\CopilotDev.NET.Api.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.pdb
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Data.Application.dll.config
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\Customer.Model.pdb
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.pdb
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\AutoMapper.xml
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\bin\Debug\System.ValueTuple.xml
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.AssemblyReference.cache
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.47400F53.Up2Date
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.dll
+D:\Customer.API_2 (working)\Customer.API\Customer.BusinessLogic\obj\Debug\Customer.BusinessLogic.pdb

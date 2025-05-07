@@ -1,0 +1,197 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutCRM.cshtml";
+}
+<link href="~/Theme/dist/css/FullScreenModal.css" rel="stylesheet" />
+<input type="hidden" value="Contact" id="hdnPageLoadOption" />
+<input id="hdnLookup" type="hidden" value="@ViewBag.Lookup" />
+<input id="hdnRepresentatives" type="hidden" value="@ViewBag.Representatives" />
+<div class="modal fade" id="Acc-ConfirmBox" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered">
+        <input id="confirmid" style="display:none" />
+        <div class="modal-content">
+            <div class="modal-header GradientModelHeader">
+                <h5 class="modal-title" id="exampleModalLongTitle">Confirmation !</h5>
+            </div>
+            <div class="modal-body Gradientcard-outline" style="text-align:center">
+                <i class="fa fa-exclamation-triangle" aria-hidden="true" style="font-size: 50px;color: #dc3545;"></i>
+                <br />
+                <h5>Do you want to delete ?</h5>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary Gradientbutton" data-dismiss="modal">No</button>
+                    <button id="btnDelete" type="button" class="btn btn-secondary Gradientbutton" onclick="RemoveAccordion()">Yes</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="card-title DetailsTitle">
+                    Add Contact
+                </h5>
+                <div class="card-tools">
+
+                    <span style="font-weight:bold;cursor:pointer"><a href="/Contact/ContactDetails/Index" class="GradientText"><i class="fas fa-backward"></i>Back</a></span>
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body Gradientcard-outline">
+                <form class="form-sample" id="quickForm">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="form-group">
+                                <label>Company Name<span style="color:#dc3545">*</span></label>
+                                <input type="text" class="form-control form-control-sm" placeholder="Company Name" id="txtCompanyName">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4">
+                            <div class="form-group">
+                                <label>Manufacturer <span style="color:#dc3545">*</span></label>
+                                <input type="text" class="form-control form-control-sm" placeholder="Manufacturer" id="txtManufacturer">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header SubDetailsPageHeader">
+                            <h5 class="card-title DetailsTitle">
+                                COMPANY E-MAILS
+                            </h5>
+                            <div class="card-tools">
+
+                                <button type="button" class="btn btn-tool" title="Add Row">
+                                    <i class="fas fa-plus-circle" id="btnAddEmails" onclick="btnAddEmails()" style="float:right;cursor: pointer;"></i>
+                                </button>
+                                <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                                    <i class="fas fa-minus"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="card-body Gradientcard-outline">
+                            <div style="overflow:auto;">
+                                <table class="table table-bordered GradientdataTable" id="EmailTableData">
+                                    <thead>
+                                        <tr>
+                                            <th style="width:15%">E-Mail Type</th>
+                                            <th>E-Mail</th>
+                                            <th style="width:5%">X</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="EmailDataBody">
+                                        <tr id="0">
+                                            <td class="firstEmailType">
+                                                <div class="" style="width:200px">
+                                                    <select class="custom-select Gradient-inpuHeight" style="width:100%" id="ddlEmail"></select>
+                                                </div>
+                                            </td>
+                                            <td class="firstEmail">
+                                                <input type="email" name="email" class="form-control form-control-sm" onchange="validateEmail(this)" placeholder="Email Id" id="txtEmailId">
+                                            </td>
+
+                                            <td></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header SubDetailsPageHeader">
+                            <h5 class="card-title DetailsTitle">
+                                COMPANY PHONE DETAILS
+                            </h5>
+                            <div class="card-tools">
+
+                                <button type="button" class="btn btn-tool" title="Add Row">
+                                    <i class="fas fa-plus-circle" id="btnAddPhone" onclick="btnAddPhone()" style="float:right;cursor: pointer;"></i>
+                                </button>
+                                <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                                    <i class="fas fa-minus"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="card-body Gradientcard-outline">
+                            <div style="overflow:auto;">
+                                <table class="table table-bordered GradientdataTable" id="PhoneTableData">
+                                    <thead>
+                                        <tr>
+                                            <th style="width:15%">Phone Type</th>
+                                            <th>Phone Number</th>
+                                            <th style="width:5%">X</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="PhoneDataBody">
+                                        <tr id="0">
+                                            <td class="firstPhoneType">
+                                                <div class="" style="width:200px">
+                                                    <select class="custom-select Gradient-inpuHeight" style="width:100%" id="ddlPhoneType"></select>
+                                                </div>
+                                            </td>
+                                            <td class="firstPhone">
+                                                <input type="text" class="form-control form-control-sm numericValidate" placeholder="Phone Number" id="txtPhoneNo">
+                                            </td>
+
+                                            <td></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header SubDetailsPageHeader">
+                            <h5 class="card-title DetailsTitle">
+                                ADDRESS
+                            </h5>
+                            <div class="card-tools">
+
+                                <button type="button" class="btn btn-tool" title="Add Address">
+                                    <i class="fas fa-plus-circle" id="btnAddAddress" style="float:right;cursor: pointer;"></i>
+                                </button>
+                                <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                                    <i class="fas fa-minus"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="card-body Gradientcard-outline" id="divAccordionParent">
+                           
+                        </div>
+                    </div>
+                   
+                    <div class="row">
+                        <div class="col-md-12" style="margin-top:10px">
+                            <div class="col-md-12" style="text-align:right;padding-right:10px">
+                                <button id="btnSaveContact" class="Gradientbutton">Submit</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script type="text/javascript" src="~/Scripts/Datetimepicker/jquery-1.8.2.min.js"></script>
+
+<script type="text/javascript" src="~/Scripts/Datetimepicker/jquery-ui.min.js"></script>
+<script type="text/javascript" src="~/Scripts/Datetimepicker/jquery-ui-timepicker-addon.js"></script>
+<link rel="stylesheet" media="all" type="text/css" href="~/Scripts/DateTimePicker/jquery-ui.css" />
+<link rel="stylesheet" media="all" type="text/css" href="~/Scripts/DateTimePicker/jquery-ui-timepicker-addon.css" />
+<script src="~/Theme/plugins/select2/js/select2.full.min.js"></script>
+<link href="~/Content/css/toastr.min.css" rel="stylesheet" />
+<script src="~/Scripts/toastr.min.js"></script>
+<script src="~/Scripts/PageScripts/Contact.js?version=1.1"></script>
+<script src="~/Scripts/PageScripts/CustomDate.js"></script>
+<script src="~/Scripts/PageScripts/CheckFormat.js"></script>
+<script src="~/Scripts/PageScripts/ErrorMessage.js"></script>
+
+

@@ -1,0 +1,501 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutCRM.cshtml";
+}
+<link href="~/Theme/dist/css/FullScreenModal.css" rel="stylesheet" />
+<input type="hidden" value="Samples" id="hdnPageLoadOption" />
+<input id="hdnLookup" type="hidden" value="@ViewBag.Lookup" />
+<input id="hdnProduct" type="hidden" value="@ViewBag.Product" />
+<input id="hdnCompany" type="hidden" value="@ViewBag.Company" />
+<input id="hdnApplicationUsage" type="hidden" value="@ViewBag.ApplicationUsage" />
+
+<div class="modal fade" id="modal-product" data-backdrop='static' data-keyboard='false'>
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header GradientModelHeader">
+                <h4 class="modal-title" id="header" style="color:black">Add Product</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="color:black">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <input style="display:none" type="text" id="txtProductId">
+            <div class="modal-body">
+
+                <div class="row">
+                    <div class="col-sm-6" id="applicationUsage">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Application/Usage<span style="color:#dc3545">*</span></label>
+                            <div class="select2-info" data-select2-id="1">
+                                <div class="input-group">
+                                    <select class="select2 select2-hidden-accessible " multiple="" data-placeholder="Select Application/Usage" id="ddlApplicationUsage"
+                                            data-dropdown-css-class="select2-info" style="width: 100%;" data-select2-id="1" tabindex="-1" aria-hidden="true"></select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <!-- text input -->
+                        <div class="form-group ">
+                            <label>Product Name<span style="color:#dc3545">*</span></label>
+                            <input type="text" class="form-control form-control-sm" placeholder="Product Name" id="txtProduct">
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Price (in Rs)<span style="color:#dc3545">*</span></label>
+                            <input type="text" class="form-control form-control-sm" placeholder="Price" id="txtPrice">
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Updated On</label>
+                            <input type="text" class="form-control form-control-sm" placeholder="Date" id="txtDate">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer justify-content-between">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-secondary Gradientbutton" id="btnSaveProduct">Save</button>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="card-title DetailsTitle">
+                    Add Samples
+                </h5>
+                <div class="card-tools">
+
+                    <span style="font-weight:bold;cursor:pointer"><a href="/Samples/SamplesDetails/Index" class="GradientText"><i class="fas fa-backward"></i>Back</a></span>
+                    @*<button type="button" class="btn btn-tool" data-card-widget="collapse">
+                            <i class="fas fa-minus"></i>
+                        </button>*@
+                </div>
+            </div>
+            <div class="card-body Gradientcard-outline">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <div class="form-group">
+                            <label>Company Name<span style="color:#dc3545">*</span></label>
+                            <select class="select2" style="width:100%" id="ddlCompany" data-select2-id="1" onchange="bindContactDetails()"></select>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-2">
+                        <div class="form-group">
+                            <label>Kind Attn To</label>
+                            <select class="select2" style="width:100%" id="ddlAttTo" data-select2-id="2"></select>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="form-group">
+                            <label>Address<span style="color:#dc3545">*</span></label>
+                            <select class="select2" style="width:100%" id="ddlAddress" data-select2-id="3"></select>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Quotation Date</label>
+                            <input type="text" class="form-control form-control-sm" placeholder="Date" id="txtQuotationDate">
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Quotation No</label>
+                            <input type="text" class="form-control form-control-sm" placeholder="Quotation Number" id="txtQuotationNo">
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Register No</label>
+                            <input type="text" class="form-control form-control-sm" placeholder="Register Number" id="txtRegisterNo">
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Sample Name<span style="color:#dc3545">*</span></label>
+                            <input type="text" class="form-control form-control-sm" placeholder="Sample Name" id="txtSampleName" onchange="GetQuotationBySampleName()">
+                        </div>
+                    </div>
+                    <!--<div class="col-lg-2 col-md-4 col-sm-6">
+                    <div class="form-group">
+                        <label>Quantity<span style="color:#dc3545">*</span></label>
+                        <div class="input-group">
+                            <select class="select2" style="width:100%" id="ddlQuantity" data-select2-id="4"></select>
+                            <div class="input-group-prepend">-->
+                    @*<span class="input-group-text"><i class="fas fa-plus-circle GradientText" id="btnAddNewQuantity" title="Add New Quantity" style="float:right;cursor:pointer"></i></span>*@
+                    <!--</div>
+                            </div>
+                        </div>
+                    </div>-->
+
+
+
+
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="form-group">
+                            <label>Quantity<span style="color:#dc3545">*</span></label>
+                            <div class="d-flex align-items-center">
+                                <select class="form-control select2 flex-grow-1" id="ddlQuantity" style="width: 60%; border-right: 0; border-top-right-radius: 0; border-bottom-right-radius: 0;"></select>
+                                <span class="px-2">×</span>
+                                <input type="number"
+                                       class="form-control form-control-sm flex-grow-1"
+                                       id="txtMultiplier"
+                                       min="1"
+                                       value="1"
+                                       step="1"
+                                       onkeydown="return event.keyCode !== 190 && event.keyCode !== 188" // Blocks . and , keys
+                                       onchange="this.value = Math.max(1, parseInt(this.value) || 1)"
+                                       style="width: 30%; border-top-left-radius: 0; border-bottom-left-radius: 0;">
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+                    <script>
+                        document.getElementById('btnAddNewQuantity').addEventListener('click', function () {
+                            $('#addModal').modal('show');
+                        });
+
+                    </script>
+
+                    <div class="modal fade" id="addModal" tabindex="-1" role="dialog" aria-labelledby="new" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header GradientModelHeader">
+                                    <h5 class="modal-title" id="addModalLabel">Add New Quantity</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+
+                                <div class="modal-body">
+                                    <form>
+                                        <!-- Row 1: Input for Quantity -->
+                                        <div class="form-row">
+                                            <div class="form-group col">
+                                                <label for="txtQuantity" style="font-size: 1rem; font-weight: bold; color: #333;">Quantity ( Grams )</label>
+                                                <input type="number"
+                                                       class="form-control"
+                                                       id="txtQuantity"
+                                                       placeholder="Enter Quantity"
+                                                       min="1"
+                                                       max="999999999"
+                                                       oninput="validateQuantityInput(this)" />
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+
+                                <script>
+                                    function validateQuantityInput(input) {
+                                        // Remove non-numeric characters
+                                        input.value = input.value.replace(/[^0-9]/g, '');
+
+                                        // Ensure max length is 9 digits
+                                        if (input.value.length > 9) {
+                                            input.value = input.value.slice(0, 9);
+                                        }
+
+                                        // Ensure the value is not less than 1
+                                        if (input.value < 1) {
+                                            input.value = 1;
+                                        }
+                                    }
+
+                                    // Prevent paste of invalid values
+                                    document.getElementById('txtQuantity').addEventListener('paste', function (e) {
+                                        e.preventDefault();
+                                        const pastedText = (e.clipboardData || window.clipboardData).getData('text');
+                                        const numericValue = pastedText.replace(/[^0-9]/g, '');
+                                        if (numericValue.length <= 9) {
+                                            this.value = numericValue;
+                                        }
+                                    });
+                                </script>
+
+
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary Gradientbutton" id="saveButton" disabled>Save</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <script>
+
+
+                        // Enable/Disable save button based on input (for Quantity)
+                        document.getElementById('txtQuantity').addEventListener('input', function () {
+                            document.getElementById('saveButton').disabled = !this.value.trim();
+                        });
+
+                        // Save button click event
+                        document.getElementById('saveButton').addEventListener('click', function () {
+                            const quantity = document.getElementById('txtQuantity').value.trim();
+
+                            // Input validation (ensure it's a valid number)
+                            if (!quantity || isNaN(quantity) || quantity <= 0) {
+                                Swal.fire({
+                                    icon: 'warning',
+                                    title: 'Invalid Input',
+                                    text: 'Please enter a valid quantity in grams.'
+                                });
+                                return;
+                            }
+
+                            // Convert quantity to Title Case (e.g., "5000 grams")
+                            const titleCaseValue = quantity + " grams";  // e.g., "5000 grams"
+
+                            // Format the Code (e.g., "FIVE-THOUSAND-GRAMS" for 5000)
+                            const codeValue = convertToWords(quantity) + "-GRAMS";
+
+                            var model = {
+                                Code: codeValue.toUpperCase(),
+                                Type: "SAMPLE-QUANTITY-TYPE",
+                                Description: titleCaseValue
+                            };
+
+                            // Send data to the server
+                            fetch('/Contact/Contact/AddLookup', {
+                                method: 'POST',
+                                headers: { 'Content-Type': 'application/json' },
+                                body: JSON.stringify(model)
+                            })
+                                .then(response => response.text().then(text => {
+                                    let result;
+                                    try {
+                                        result = JSON.parse(text);
+                                    } catch (e) {
+                                        throw new Error("Invalid JSON format received");
+                                    }
+
+                                    // Handle server response
+                                    if (result.Data && result.Data.ErrorDescription) {
+                                        switch (result.Data.ErrorDescription) {
+                                            case "E001":
+                                                Swal.fire('Permission Denied', "You don't have access to perform this action.", 'error');
+                                                break;
+                                            case "E005":
+                                                Swal.fire('Duplicate Record', "This record already exists. Please enter a unique value.", 'warning');
+                                                break;
+                                            case "E003":
+                                                Swal.fire('Save Failed', "Failed to create record. Please try again.", 'error');
+                                                break;
+                                            default:
+                                                Swal.fire('Error', result.Data.ErrorDescription || "Unknown error occurred", 'error');
+                                        }
+                                    } else {
+                                        Swal.fire({
+                                            icon: 'success',
+                                            title: 'Saved Successfully',
+                                            text: 'The record has been saved!',
+                                            confirmButtonText: 'OK'
+                                        }).then(() => {
+                                            location.reload();  // Optional: Reload the page or reset the form as needed
+                                        });
+                                    }
+                                }))
+                                .catch(err => {
+                                    Swal.fire('Server Error', err.message, 'error');
+                                });
+                        });
+
+                        function convertToWords(number) {
+                            const singleDigits = ["Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"];
+                            const teens = ["Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"];
+                            const tens = ["", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"];
+
+                            if (isNaN(number) || number < 0) return "";
+                            if (number === 0) return singleDigits[0];
+
+                            // Function to convert a 2-digit number (0-99)
+                            function convertTwoDigits(n) {
+                                if (n < 10) return singleDigits[n];
+                                if (n < 20) return teens[n - 10];
+                                const ten = Math.floor(n / 10);
+                                const unit = n % 10;
+                                return tens[ten] + (unit ? "-" + singleDigits[unit] : "");
+                            }
+
+                            // Function to convert a 3-digit number (0-999)
+                            function convertThreeDigits(n) {
+                                const hundred = Math.floor(n / 100);
+                                const remainder = n % 100;
+                                let words = [];
+                                if (hundred > 0) words.push(singleDigits[hundred] + "-Hundred");
+                                if (remainder > 0) words.push(convertTwoDigits(remainder));
+                                return words.join("-");
+                            }
+
+                            let words = [];
+                            let crore = Math.floor(number / 10000000);
+                            let lakh = Math.floor((number % 10000000) / 100000);
+                            let thousand = Math.floor((number % 100000) / 1000);
+                            let remainder = number % 1000;
+
+                            if (crore > 0) {
+                                words.push(convertTwoDigits(crore) + "-Crore");
+                            }
+                            if (lakh > 0) {
+                                words.push(convertTwoDigits(lakh) + "-Lakh");
+                            }
+                            if (thousand > 0) {
+                                words.push(convertTwoDigits(thousand) + "-Thousand");
+                            }
+                            if (remainder > 0) {
+                                words.push(convertThreeDigits(remainder));
+                            }
+
+                            return words.join("-");
+                        }
+
+
+                    </script>
+
+
+
+
+
+
+
+                    <!--<div class="col-sm-2">-->
+                    <!-- text input -->
+                    <!--<div class="form-group">
+                            <label>Quantity<span style="color:#dc3545">*</span></label>
+                            <input type="text" class="form-control form-control-sm" placeholder="Quantity" id="txtQuantity">
+                        </div>
+                    </div>-->
+                    @*<div class="col-sm-2">
+                            <div class="form-group">
+                                <label>Unit</label>
+                                <select class="select2" style="width:100%" id="ddlUnit" data-select2-id="4">
+                                    <option value="0">Select</option>
+                                    <option value="1">Kg</option>
+                                    <option value="2">Grams</option>
+                                </select>
+                            </div>
+                        </div>*@
+                    <div class="col-lg-2 col-md-4 col-sm-6">
+                        <div class="form-group">
+                            <label>Original Name(Product)<span style="color:#dc3545">*</span></label>
+                            <div class="input-group">
+                                <select class="select2" style="width:75%" id="ddlProduct" data-select2-id="5" onchange="getPrice()"></select>
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-plus-circle GradientText" id="btnAddNewProduct" title="Add Product" style="float:right;cursor:pointer"></i></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Rate</label>
+                            <input type="text" class="form-control form-control-sm" placeholder="Rate" id="txtRate" onchange="checkRateWithProductPrice(this)">
+                        </div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="form-group">
+                            <label>Application/Usage</label>
+                            <select class="select2" style="width:100%" id="ddlAppUsage" data-select2-id="6"></select>
+                        </div>
+                    </div>
+                    <div class="col-sm-8">
+                        <div class="form-group">
+                            <label>Remarks </label>
+                            <textarea type="text" class="form-control" placeholder="Remarks" id="txtRemarks" rows="3"></textarea>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Terms & Condition </label>
+                            <textarea type="text" class="form-control" placeholder="Terms And Condition" id="txtTermCond" rows="3"></textarea>
+                        </div>
+                    </div>
+                    <div class="col-md-12" style="margin-top:10px">
+                        <div class="col-md-12" style="text-align:right;padding-right:10px">
+                            <button id="btnAddQuotationDetails" onclick="btnAddQuotationDetail()" class="Gradientbutton">Add Multiple Quotation</button>
+                            <button id="btnUpdateQuotationDetails" onclick="btnUpdateQuotationDetail()" style="display:none" class="Gradientbutton">Update Quotation</button>
+                        </div>
+                    </div>
+                </div>
+                <div id="divQuotationDetails" class="card" style="display:none">
+                    <div class="card-header SubDetailsPageHeader">
+                        <h5 class="card-title DetailsTitle">
+                            QUOTATIONS LIST
+                        </h5>
+                    </div>
+                    <div class="card-body Gradientcard-outline">
+                        <div style="overflow:auto;">
+                            <table class="table table-bordered" id="ViewQuotationTableData">
+                                <thead>
+                                    <tr>
+                                        <th>Application/Usage</th>
+                                        <th>Sample Name</th>
+                                        <th>Original Name</th>
+                                        <th>Quantity</th>
+                                        @*<th>Multiple</th>*@
+                                        <th>Rate</th>
+                                        <th>IsActive</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="ViewQutationDataBody">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12" style="margin-top:10px">
+                        <div class="col-md-12" style="text-align:right;padding-right:10px">
+                            <button id="btnSaveSamples" class="Gradientbutton">Submit</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<script type="text/javascript" src="~/Scripts/Datetimepicker/jquery-1.8.2.min.js"></script>
+
+<script type="text/javascript" src="~/Scripts/Datetimepicker/jquery-ui.min.js"></script>
+<script type="text/javascript" src="~/Scripts/Datetimepicker/jquery-ui-timepicker-addon.js"></script>
+<link rel="stylesheet" media="all" type="text/css" href="~/Scripts/DateTimePicker/jquery-ui.css" />
+<link rel="stylesheet" media="all" type="text/css" href="~/Scripts/DateTimePicker/jquery-ui-timepicker-addon.css" />
+<script src="~/Theme/plugins/select2/js/select2.full.min.js"></script>
+<link href="~/Content/css/toastr.min.css" rel="stylesheet" />
+<script src="~/Scripts/toastr.min.js"></script>
+<script src="~/Scripts/PageScripts/Samples.js?version=1.1"></script>
+<script src="~/Scripts/PageScripts/CustomDate.js"></script>
+<script src="~/Scripts/PageScripts/ErrorMessage.js"></script>
+
+<script>
+    document.getElementById('btnSaveSamples').addEventListener('click', function () {
+        console.log("Submit button clicked!"); // Simple test
+        const multiplierValue = document.getElementById('txtMultiplier').value;
+        console.log('Multiplier Value:', multiplierValue);
+    });
+
+</script>

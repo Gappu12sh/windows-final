@@ -1,0 +1,483 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>eCustomer</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/Theme/plugins/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="~/Theme/plugins/select2/css/select2.min.css">
+    <link rel="stylesheet" href="~/Theme/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
+
+
+    <!-- overlayScrollbars -->
+    <link rel="stylesheet" href="~/Theme/dist/css/adminlte.min.css">
+    @*<link href="~/Theme/plugins/sweetalert2/sweetalert2.min.css" rel="stylesheet" />*@
+    <!-- Google Font: Source Sans Pro -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+    <link rel="stylesheet" href="~/Theme/plugins/datatables-bs4/css/dataTables.bootstrap4.css">
+    <link rel="stylesheet" href="~/Theme/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+    <link rel="shortcut icon" href="~/Images/logo.png" />
+    @*<link href="~/Theme/plugins/Multiselect/easySelectStyle.css" rel="stylesheet" />
+        <script src="~/Theme/plugins/Multiselect/easySelect.js"></script>*@
+    <link href="~/Theme/dist/css/Gradient.css" rel="stylesheet" />
+    <style>
+        #pluswrap {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            background: rgba(0, 0, 0, 0.21);
+            top: 0;
+            z-index: 2222202930;
+        }
+
+        .plus {
+            display: flex;
+            margin: 0 auto;
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+
+        ::-webkit-scrollbar-track {
+            box-shadow: inset 0 0 5px grey;
+            border-radius: 6px;
+        }
+
+
+        ::-webkit-scrollbar-thumb {
+            background: #902ca8;
+            border-radius: 6px;
+        }
+
+
+            ::-webkit-scrollbar-thumb:hover {
+                background: #902ca8;
+            }
+
+        .pagination .page-item.active .page-link {
+            /*background: linear-gradient(to right, rgb(31, 162, 255), rgb(18, 216, 250));*/
+            background: linear-gradient(to right,#4b205a, #BA55D3);
+            border-color: #902ca8;
+        }
+
+        div.dataTables_wrapper div.dataTables_paginate ul.pagination .page-item.active .page-link:focus {
+            /*background-color: #17a2b8;*/
+            background-color: #813588;
+        }
+
+        .pagination .page-item.active .page-link:hover {
+            /*background-color: #17a2b8;*/
+            background-color: #4b205a;
+        }
+
+        table.dataTable tbody th, table.dataTable tbody td {
+            padding: 0px 12px 4px; /* e.g. change 8x to 4px here */
+            font-size: 13px;
+        }
+
+        table.dataTable th {
+            color: black;
+            font-family: sans-serif;
+            font-size: 13px;
+            padding: 8px 12px 8px 12px;
+        }
+
+        .modal-header {
+            /*background-color: #17a2b8;*/
+            background: linear-gradient(to right, rgb(31, 162, 255), rgb(18, 216, 250));
+            border-top: 3px solid linear-gradient(to right, rgb(31, 162, 255), rgb(18, 216, 250)) !important;
+        }
+
+        .modal-title {
+            color: white !important;
+        }
+
+        .card-primary {
+            border-top: 3px solid linear-gradient(to right, rgb(31, 162, 255), rgb(18, 216, 250)) !important;
+        }
+
+        label {
+            font-size: 13px;
+        }
+
+    </style>
+</head>
+@*<body class="sidebar-mini layout-fixed text-sm">*@
+<body class="sidebar-mini layout-fixed text-sm" style="height: auto;">
+    <div id="pluswrap" style="display:none">
+        <div class="plus">
+            <div class="loading">
+                <img src="~/Images/Pulse-1s-96px.gif" />
+            </div>
+        </div>
+    </div>
+    <!-- Site wrapper -->
+    <div class="wrapper">
+        <!-- Navbar -->
+        <nav class="main-header navbar navbar-expand navbar-info" style="background: linear-gradient(to right,#4b205a, #BA55D3);">
+            <!-- Left navbar links -->
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars" style="color:white"></i></a>
+                </li>
+            </ul>
+            <!-- Right navbar links -->
+            <ul class="navbar-nav ml-auto">
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" data-toggle="dropdown" aria-expanded="true" style="font-weight:bold;color:white">
+                        Settings <i class="fa fa-gear fa-spin" style="font-size:20px;color:white"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right">
+                        <a href="/Account/Logout" class="dropdown-item">
+                            <i class="fas fa-sign-out-alt" aria-hidden="true"></i> Logout
+                        </a>
+                        <a href="/ChangePassword/ChangePassword" class="dropdown-item">
+                            <i class="fas fa-lock" aria-hidden="true"></i> Change Password
+                        </a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+        <!-- /.navbar -->
+        <!-- Main Sidebar Container -->
+        <aside class="main-sidebar sidebar-light-info elevation-2">
+            <!-- Brand Logo -->
+            <a href="~/User/Account/Welcome" class="brand-link" style="background: linear-gradient(to right,#4b205a, #BA55D3);">
+                <img src="~/Images/logo.png"
+                     alt="Logo"
+                     class="brand-image img-circle"
+                     style="opacity: .8;width:30px">
+                <span class="brand-text font-weight-bold" style="color:white">eCustomer</span>
+            </a>
+
+            <!-- Sidebar -->
+            <div class="sidebar os-host os-theme-light os-host-overflow os-host-overflow-y os-host-resize-disabled os-host-scrollbar-horizontal-hidden os-host-transition">
+                <div class="os-resize-observer-host"><div class="os-resize-observer observed" style="left: 0px; right: auto;"></div></div>
+                <div class="os-size-auto-observer" style="height: calc(100% + 1px); float: left;"><div class="os-resize-observer observed"></div></div>
+                <div class="os-content-glue" style="margin: 0px -8px; width: 249px; height: 311px;"></div><div class="os-padding">
+                    <div class="os-viewport os-viewport-native-scrollbars-invisible" style="overflow-y: scroll;">
+                        <div class="os-content" style="padding: 0px 8px; height: 100%; width: 100%;">
+                            <!-- Sidebar user panel (optional) -->
+                            <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                                <div class="image">
+                                    <img src="~/Theme/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+                                </div>
+                                <div class="info">
+                                    <a href="#" class="d-block"><b>@Session["UserName"]</b></a>
+                                </div>
+                            </div>
+
+                            <!-- Sidebar Menu -->
+                            <nav class="mt-2">
+                                @if (ViewBag.UserPermissionDetails != null)
+                                {
+                                    var indexlist = (Dictionary<int, string>)ViewBag.UserPermissionDetails;
+                                    <ul class="nav nav-pills nav-sidebar flex-column nav-compact" data-widget="treeview" role="menu" data-accordion="false">
+                                        <li class="nav-item">
+                                            <a href="~/User/Account/Welcome" class="nav-link">
+                                                <i class="nav-icon fas fa-tachometer-alt" style="color: #902ca8 "></i>
+                                                <p>
+                                                    Dashboard
+
+                                                </p>
+                                            </a>
+                                        </li>
+                                        @if (indexlist.ContainsValue("Department"))
+                                        {
+                                            <li class="nav-item">
+                                                <a href="~/Department/Department/Index" class="nav-link ">
+                                                    <i class="nav-icon fa fa-cubes" style="color: #902ca8 "></i>
+                                                    <p>Department</p>
+                                                </a>
+                                            </li>
+                                        }
+                                        @if (indexlist.ContainsValue("ApplicationUsage"))
+                                        {
+                                            <li class="nav-item">
+                                                <a href="~/ApplicationUsage/ApplicationUsage/Index" class="nav-link ">
+                                                    <i class="nav-icon fa fa-industry" style="color: #902ca8 "></i>
+                                                    <p>Application/Usage</p>
+                                                </a>
+                                            </li>
+                                        }
+                                        @if (indexlist.ContainsValue("Representatives"))
+                                        {
+                                            <li class="nav-item">
+                                                <a href="~/Representatives/Representatives/Index" class="nav-link">
+                                                    <i class="nav-icon fa fa-user-circle" style="color: #902ca8 "></i>
+                                                    <p>Representatives</p>
+                                                </a>
+                                            </li>
+                                        }
+                                        @if (indexlist.ContainsValue("Product"))
+                                        {
+                                            <li class="nav-item">
+                                                <a href="~/Product/Product/Index" class="nav-link">
+                                                    <i class="nav-icon fa fa-product-hunt" style="color: #902ca8 "></i>
+                                                    <p>Product</p>
+                                                </a>
+                                            </li>
+                                        }
+                                        @if (indexlist.ContainsValue("Contact"))
+                                        {
+                                            <li class="nav-item">
+                                                <a href="~/Contact/ContactDetails/Index" class="nav-link">
+                                                    <i class="nav-icon fa fa-address-book-o" style="color: #902ca8 "></i>
+                                                    <p>Contact</p>
+                                                </a>
+                                            </li>
+                                        }
+                                        @if (indexlist.ContainsValue("Material"))
+                                        {
+                                            <li class="nav-item">
+                                                <a href="~/Material/Material/Index" class="nav-link">
+                                                    <i class="nav-icon fas fa-cloud" style="color: #902ca8 "></i>
+                                                    <p>Material</p>
+                                                </a>
+                                            </li>
+                                        }
+                                        @if (indexlist.ContainsValue("Samples"))
+                                        {
+                                            <li class="nav-item">
+                                                <a href="~/Samples/SamplesDetails/Index" class="nav-link">
+                                                    <i class="nav-icon fas fa-vial" style="color: #902ca8 "></i>
+                                                    <p>Samples</p>
+                                                </a>
+                                            </li>
+                                        }
+                                        @if (indexlist.ContainsValue("PurchaseOrder"))
+                                        {
+                                            <li class="nav-item">
+                                                <a href="~/PurchaseOrder/PurchaseOrderDetails/Index" class="nav-link">
+                                                    <i class="nav-icon fas fa-shopping-cart" style="color: #902ca8 "></i>
+                                                    <p>Purchase Order</p>
+                                                </a>
+                                            </li>
+                                        }
+                                        @if (indexlist.ContainsValue("CustomerReport") || indexlist.ContainsValue("Quotations") || indexlist.ContainsValue("PartyAddress"))
+                                        {
+                                            <li class="nav-item has-treeview">
+                                                <a href="#" class="nav-link">
+                                                    <i class="nav-icon fas fa fa-book" style="color: #902ca8 "></i>
+                                                    <p>
+                                                        Reports
+                                                        <i class="right fas fa-angle-left"></i>
+                                                    </p>
+                                                </a>
+                                                <ul class="nav nav-treeview">
+                                                    <li class="nav-item">
+                                                        <a href="~/CustomerReport/CustomerReport/Index" class="nav-link">
+                                                            <i class="nav-icon far text-info"></i>
+                                                            <p>Customer Report</p>
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a href="~/Quotations/Quotations/Index" class="nav-link">
+                                                            <i class="nav-icon far text-info"></i>
+                                                            <p>View Quotations</p>
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a href="~/PartyAddress/PartyAddress/Index" class="nav-link">
+                                                            <i class="nav-icon far text-info"></i>
+                                                            <p>Party Address</p>
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a href="~/ContactRpt/ContactRpt/Index" class="nav-link">
+                                                            <i class="nav-icon far text-info"></i>
+                                                            <p>Contact List</p>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        }
+                                        @if (indexlist.ContainsValue("UserDetails") || indexlist.ContainsValue("UserModulePermission"))
+                                        {
+                                            <li class="nav-item ">
+                                                <a href="#" class="nav-link">
+                                                    <i class="nav-icon fas fa-users" style="color: #902ca8 "></i>
+                                                    <p>
+                                                        Users
+                                                        <i class="right fas fa-angle-left"></i>
+                                                    </p>
+                                                </a>
+                                                <ul class="nav nav-treeview">
+                                                    @if (indexlist.ContainsValue("UserDetails"))
+                                                    {
+                                                        <li class="nav-item">
+                                                            <a href="~/UserDetails/UserDetails/Index" class="nav-link">
+                                                                <i class="nav-icon fas fa-user-alt"></i>
+                                                                <p>User Management</p>
+                                                            </a>
+                                                        </li>
+                                                    }
+                                                    @if (indexlist.ContainsValue("UserModulePermission"))
+                                                    {
+                                                        <li class="nav-item">
+                                                            <a href="~/UserModulePermission/UserModulePermission/Index" class="nav-link">
+                                                                <i class="nav-icon fas fa-user-shield"></i>
+                                                                <p>User Permissions</p>
+                                                            </a>
+                                                        </li>
+                                                    }
+                                                    @*<li class="nav-item">
+                        <a href="~/PartyAddress/PartyAddress/Index" class="nav-link">
+                            <i class="nav-icon fas fa-key"></i>
+                            <p>Change Password</p>
+                        </a>
+                    </li>*@
+                                                </ul>
+                                            </li>
+                                        }
+                                        @*<li class="nav-item has-treeview">*@
+                                        @*@if (ViewBag.UserPermissionDetails != null)*@
+                                        @*{*@
+                                        @*var indexlist = (Dictionary<string, string>)ViewBag.UserPermissionDetails;*@
+                                        @*if (indexlist.ContainsKey("Item") || indexlist.ContainsKey("Buyer"))*@
+                                        @*{*@
+                                        @*<a href="#" class="nav-link" style='background: linear-gradient(to right, lightblue, rgb(18, 216, 250))'>
+            <i class="nav-icon fas fa fa-book"></i>
+            <p>
+                Masters
+                <i class="right fas fa-angle-left"></i>
+            </p>
+        </a>*@
+                                        <!--<a href="~/Department/Department/Index" class="nav-link">
+        <i class="nav-icon far text-info"></i>
+        <p>Department</p>
+    </a>-->
+                                        @*<ul class="nav nav-treeview">
+            <li class="nav-item">
+                <a href="~/Department/Department/Index" class="nav-link">
+                    <i class="nav-icon far text-info"></i>
+                    <p>Department</p>
+                </a>
+            </li>
+        </ul>*@
+                                        @*</li>*@
+                                    </ul>
+                                }
+                            </nav>
+
+                            <!-- /.sidebar-menu -->
+                        </div>
+                    </div>
+                </div><div class="os-scrollbar os-scrollbar-horizontal os-scrollbar-unusable os-scrollbar-auto-hidden"><div class="os-scrollbar-track" style="background: #dee2e6 !important;"><div class="os-scrollbar-handle" style="width: 100%; transform: translate(0px, 0px);"></div></div></div><div class="os-scrollbar os-scrollbar-vertical os-scrollbar-auto-hidden"><div class="os-scrollbar-track" style="background: #dee2e6 !important;"><div class="os-scrollbar-handle" style="height: 34.7343%; transform: translate(0px, 0px);background:#17a2b8 !important"></div></div></div><div class="os-scrollbar-corner"></div>
+            </div>
+            <!-- /.sidebar -->
+        </aside>
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper">
+            <!-- Main content -->
+            <br />
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <div class="container-fluid">
+                    <div class="row mb-2">
+                        <div class="col-sm-6">
+                            <h1 class="m-0 contentHeader text-dark"></h1>
+                        </div><!-- /.col -->
+                        <div class="col-sm-6">
+                            <ol class="breadcrumb float-sm-right">
+                                <li class="breadcrumb-item"><a href="~/User/Account/Welcome" style="color: #902ca8">Home</a></li>
+                                <li class="breadcrumb-item breadCrumbItem"></li>
+                            </ol>
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                </div><!-- /.container-fluid -->
+            </section>
+            <!-- /.content-header -->
+            <section class="content">
+                <!-- Default box -->
+                @RenderBody()
+                <!-- /.card -->
+            </section>
+            <!-- /.content -->
+        </div>
+        <!-- /.content-wrapper -->
+        <footer class="main-footer">
+            <div class="float-right d-none d-sm-block">
+                <b>Version</b> 1.0.1
+            </div>
+            <strong>Copyright &copy; @DateTime.Now.Year <a href="">Shulyn Technologies</a>.</strong> All rights
+            reserved.
+        </footer>
+        <!-- Control Sidebar -->
+        <aside class="control-sidebar control-sidebar-dark">
+            <!-- Control sidebar content goes here -->
+        </aside>
+        <!-- /.control-sidebar -->
+    </div>
+    <!-- ./wrapper -->
+    <!-- jQuery -->
+    <script src="~/Theme/plugins/jquery/jquery.min.js"></script>
+    <script src="~/Theme/plugins/tabletotal/jquery.tableTotal.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="~/Theme/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Theme/plugins/select2/js/select2.full.min.js"></script>
+    <!-- Tempusdominus Bootstrap 4 -->
+    <script src="~/Theme/plugins/datatables/jquery.dataTables.js"></script>
+    <script src="~/Theme/plugins/datatables-bs4/js/dataTables.bootstrap4.js"></script>
+
+    <script src="~/Theme/plugins/jquery-validation/jquery.validate.min.js"></script>
+    <script src="~/Theme/plugins/jquery-validation/additional-methods.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/Theme/dist/js/adminlte.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    @*<script src="~/Theme/dist/js/demo.js"></script>*@
+    @*<script src="~/Theme/dist/js/demo.js"></script>*@
+    <script src="~/Theme/off-canvas.js"></script>
+    <script src="~/Theme/hoverable-collapse.js"></script>
+    <script src="~/Theme/misc.js"></script>
+    @*<script src="~/Theme/plugins/sweetalert2/sweetalert2.min.js"></script>*@
+    <script src="~/Theme/plugins/sweetalert2/sweetalert2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+    <script src="~/Theme/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+    <script src="~/Theme/plugins/printThis.js"></script>
+    <script src="~/Theme/Excel/jquery.table2excel.js"></script>
+    <script src="~/Theme/dist/js/popper.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+
+        function HideProgress() {
+            $("#pluswrap").hide();
+        }
+        function ShowProgress() {
+            $("#pluswrap").show();
+        }
+
+        $(function () {
+
+            //$("#example1").DataTable({
+            //    dom: "Bfrtip",
+            //});
+            //$('#tblColorData').DataTable({
+            //    "paging": true,
+            //    "lengthChange": true,
+            //    "searching": true,
+            //    "ordering": true,
+            //    "info": true,
+            //    "autoWidth": false,
+            //});
+        });
+        $(document).ready(function () {
+            $("input").attr("autocomplete", "off");
+            $('[data-toggle="popover"]').popover();
+        });
+
+    </script>
+</body>
+</html>

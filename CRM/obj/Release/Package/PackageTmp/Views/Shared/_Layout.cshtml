@@ -1,0 +1,774 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title</title>
+    <!-- Bootstrap -->
+
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/css/bootstrap-v3.min.css" rel="stylesheet" />
+    <link href="~/Content/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/css/fixedHeader.bootstrap4.min.css" rel="stylesheet" />
+
+    <!-- Datatable -->
+    <link href="~/Content/css/bootstrap-table.min.css" rel="stylesheet" />
+    <!-- Font Awesome -->
+    <link href="~/Content/css/all.css" rel="stylesheet" />
+    <!-- Toastr CSS -->
+    <link href="~/Content/css/toastr.min.css" rel="stylesheet" />
+    <!-- Custom Theme Style -->
+    <link href="~/Content/listswap.css" rel="stylesheet" />
+    <link href="~/Content/css/custom.min.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <!-- override Custom Theme Style -->
+    <link href="~/Content/css/custom.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.12.4.min.js"></script>
+    @RenderSection("styles", required: false)
+
+    <style>
+        #pluswrap {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            background: rgba(0, 0, 0, 0.21);
+            top: 0;
+            z-index: 2222202930;
+        }
+
+        body {
+            margin: 0;
+            /*new css*/
+            background-color: #ffffff;
+            font-family: 'Montserrat',sans-serif;
+            /*new css*/
+        }
+
+        .plus {
+            display: flex;
+            margin: 0 auto;
+        }
+
+        .logo {
+            color: #191f2a;
+            display: block;
+            width: 100%;
+            text-align: center !important;
+            margin-bottom: 10px;
+        }
+
+        #sidebar-menu .menu_section.active {
+            background-color: #28313a !important;
+        }
+
+        .nav.side-menu > li.active {
+            background-color: #28313a !important;
+        }
+
+        .main_menu .fa-file-text-o {
+            width: 13px !important;
+            font-size: 13px !important;
+        }
+
+        .nav-md.page-dashboard {
+            padding-right: 0px !important;
+        }
+    </style>
+</head>
+<body class="nav-md page-dashboard" style="padding-right:0px;">
+    <div id="pluswrap" class="hide">
+        <div class="plus">
+            <div class="loading">
+                <img src="~/Images/loading.gif" />
+            </div>
+        </div>
+    </div>
+    <div class="container body">
+        <div class="main_container">
+            <div class="col-md-3 left_col">
+                <div class="left_col scroll-view">
+                    <div class="navbar nav_title" style="border: 0;">
+                        <a href="/User/Account/Welcome" class="site_title"><span><img src="~/Images/logo_white.png" alt="CRM" style="padding:0 35px;"></span><span class="logo-small"><img src="~/Images/logo_small.png" alt="CRM"></span></a>
+                    </div>
+                    <div class="clearfix"></div>
+                    <!-- menu profile quick info -->
+                    <div class="profile clearfix">
+                        <div class="profile_pic" style="display:block;float: none; margin: 0 auto;"><img src="~/Images/ico_user.jpg" style="width:100%" class="img-circle profile_img" /></div>
+                        <div class="profile_info">
+                            <h2>@ViewBag.UserInfo.UserName</h2>
+                        </div>
+                        <div class="profile_button">
+                            <a href="../../User/Account/Logout" class="waves-effect" style=""><button>LogOut</button></a>
+                        </div>
+                    </div>
+                    <!-- /menu profile quick info -->
+                    <br />
+                    <!-- sidebar menu -->
+                    <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+                        <div class="menu_section">
+                            <ul class="nav side-menu">
+                                <li class="has_sub">
+                                    @if (ViewBag.UserPermissionDetails != null)
+                                    {
+                                        var indexlist = (Dictionary<string, string>)ViewBag.UserPermissionDetails;
+                                        if (indexlist.ContainsKey("OrderAssignment") || indexlist.ContainsKey("UserOrderAssignment") || indexlist.ContainsKey("NewOrder")
+                                            || indexlist.ContainsKey("OrderSearch") || indexlist.ContainsKey("BulkEditOrder"))
+                                        {
+                                            <a><i class="fas fa-shopping-basket"></i> Order <span class="fas fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu">
+                                                @if (ViewBag.UserPermissionDetails != null)
+                                                {
+                                                    if (indexlist.ContainsKey("OrderAssignment"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Assignment", "Index", "OrderAssignment", new { Area = "OrderManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("OrderReassignment"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Reassignment", "Index", "OrderReassignment", new { Area = "OrderManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("UserOrderAssignment"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Assigned", "Index", "UserOrderAssignment", new { Area = "OrderManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("NewOrder"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("New", "Index", "NewOrder", new { Area = "OrderManagement" }, new { })
+                                                        </li>
+                                                    }
+
+                                                    if (indexlist.ContainsKey("OrderSearch"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Search", "Index", "OrderSearch", new { Area = "OrderManagement" }, new { })
+                                                        </li>
+                                                    }
+
+                                                    if (indexlist.ContainsKey("BulkEditOrder"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Add GWP Items", "Index", "BulkEditOrder", new { Area = "OrderManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                }
+
+                                            </ul>
+                                        }
+                                    }
+                                    <!-- /.nav-second-level -->
+                                </li>
+
+                                <li class="has_sub">
+                                    @if (ViewBag.UserPermissionDetails != null)
+                                    {
+                                        var indexlist = (Dictionary<string, string>)ViewBag.UserPermissionDetails;
+                                        if (indexlist.ContainsKey("VIPGiftBulkOrder") || indexlist.ContainsKey("GiftOrderHistory"))
+                                        {
+                                            <a><i class="fas fa-shopping-basket"></i> Bulk Order <span class="fas fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu">
+                                                @if (ViewBag.UserPermissionDetails != null)
+                                                {
+                                                    if (indexlist.ContainsKey("VIPGiftBulkOrder"))
+                                                    {
+                                                        <li id="VIPGiftBulkOrder" role="presentation">
+                                                            @Html.ActionLink("Create Order", "Index", "VIPGiftBulkOrder", new { Area = "VIPGifting" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("GiftOrderHistory"))
+                                                    {
+                                                        <li id="GiftOrderHistory" role="presentation">
+                                                            @Html.ActionLink("VIP Gift Bulk Order History", "Index", "GiftOrderHistory", new { Area = "VIPGifting" }, new { })
+                                                        </li>
+                                                    }
+                                                }
+
+                                            </ul>
+                                        }
+                                    }
+                                    <!-- /.nav-second-level -->
+                                </li>
+
+                                <li class="has_sub">
+                                    @if (ViewBag.UserPermissionDetails != null)
+                                    {
+                                        var indexlist = (Dictionary<string, string>)ViewBag.UserPermissionDetails;
+                                        if (indexlist.ContainsKey("TicketAssignment") || indexlist.ContainsKey("AssignedTickets") || indexlist.ContainsKey("BulkDataTickets")
+                                            || indexlist.ContainsKey("TicketReassignment") || indexlist.ContainsKey("CreateTicket"))
+                                        {
+                                            <a><i class="fas fa-ticket-alt"></i> Ticket <span class="fas fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu nav-second-level">
+                                                @if (ViewBag.UserPermissionDetails != null)
+                                                {
+                                                    if (indexlist.ContainsKey("TicketAssignment"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Assignment", "Index", "TicketAssignment", new { Area = "TicketManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("AssignedTickets"))
+                                                    {
+                                                        <li id="ReturnTicket" role="presentation">
+                                                            @Html.ActionLink("Assigned", "Index", "AssignedTickets", new { Area = "TicketManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("TicketReassignment"))
+                                                    {
+                                                        <li id="ReturnTicket" role="presentation">
+                                                            @Html.ActionLink("Ticket Reassignment", "Index", "TicketReassignment", new { Area = "TicketManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("BulkDataTickets"))
+                                                    {
+                                                        <li id="ReturnTicket" role="presentation">
+                                                            @Html.ActionLink("Bulk Data Tickets", "Index", "BulkDataTickets", new { Area = "TicketManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("NDRTickets"))
+                                                    {
+                                                        <li id="ReturnTicket" role="presentation">
+                                                            @Html.ActionLink("Bulk NDR Tickets", "Index", "NDRTickets", new { Area = "TicketManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("CreateTicket"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Create Ticket", "Index", "CreateTicket", new { Area = "StoreCreditManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    @*if (indexlist.ContainsKey("CreateTicket"))
+            {
+                <li id="ReturnTicket" role="presentation">
+                    @Html.ActionLink("Create Ticket", "Index", "CreateTicket", new { Area = "TicketManagement" }, new { })
+                </li>
+            }
+            if (indexlist.ContainsKey("ReverseBC"))
+            {
+                <li id="ReturnTicket" role="presentation">
+                    @Html.ActionLink("Reverse BC", "Index", "ReverseBC", new { Area = "TicketManagement" }, new { })
+                </li>
+            }
+            if (indexlist.ContainsKey("StoreCreditLedger"))
+            {
+                <li id="ReturnTicket" role="presentation">
+                    @Html.ActionLink("Store Credit Ledger", "Index", "StoreCreditLedger", new { Area = "TicketManagement" }, new { })
+                </li>
+            }*@
+                                                }
+                                            </ul>
+                                        }
+                                    }
+                                    <!-- /.nav-second-level -->
+                                </li>
+                                <li>
+                                    @if (ViewBag.UserPermissionDetails != null)
+                                    {
+                                        var indexlist = (Dictionary<string, string>)ViewBag.UserPermissionDetails;
+                                        if (indexlist.ContainsKey("ReverseBC") || indexlist.ContainsKey("StoreCreditLedger")
+                                            || indexlist.ContainsKey("CompansationTicket"))
+                                        {
+                                            <a><i class="fa fa-money" aria-hidden="true"></i> Store Credit <span class="fas fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu nav-second-level">
+                                                @if (ViewBag.UserPermissionDetails != null)
+                                                {
+
+                                                    if (indexlist.ContainsKey("CompansationTicket"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Compensation Ticket", "Index", "CompansationTicket", new { Area = "StoreCreditManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("ReverseBC"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Reverse BC", "Index", "ReverseBC", new { Area = "StoreCreditManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("StoreCreditLedger"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Store Credit Ledger", "Index", "StoreCreditLedger", new { Area = "StoreCreditManagement" }, new { })
+                                                        </li>
+                                                    }
+                                                }
+                                            </ul>
+                                        }
+                                    }
+                                    <!-- /.nav-second-level -->
+                                </li>
+                                <li>
+                                    @if (ViewBag.UserPermissionDetails != null)
+                                    {
+                                        var indexlist = (Dictionary<string, string>)ViewBag.UserPermissionDetails;
+                                        if (indexlist.ContainsKey("OrderConfirmRule") || indexlist.ContainsKey("TicketStatusMaster") || indexlist.ContainsKey("TicketFlowStatus")
+                                            || indexlist.ContainsKey("TicketMaster"))
+                                        {
+                                            <a><i class="fas fa-cog"></i> Setup <span class="fas fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu nav-second-level">
+                                                @if (ViewBag.UserPermissionDetails != null)
+                                                {
+                                                    if (indexlist.ContainsKey("OrderConfirmRule"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Confirmation Rule", "Index", "OrderConfirmRule", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+
+                                                    if (indexlist.ContainsKey("TicketStatusMaster"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Ticket Status", "Index", "TicketStatusMaster", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+
+                                                    if (indexlist.ContainsKey("TicketFlowStatus"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Ticket Flow", "Index", "TicketFlowStatus", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+
+                                                    if (indexlist.ContainsKey("TicketMaster"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Ticket Master", "Index", "TicketMaster", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+
+                                                    if (indexlist.ContainsKey("OrderMandatoryFields"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Order Mandatory Field Master", "Index", "OrderMandatoryFields", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("OrderCategorySetting"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("VIP Gifting Price Setup", "Index", "OrderCategorySetting", new { Area = "VIPGifting" }, new { })
+                                                        </li>
+                                                    }
+
+                                                }
+
+                                            </ul>
+                                        }
+                                    }
+                                    <!-- /.nav-second-level -->
+                                </li>
+                                <li class="has_sub">
+                                    @if (ViewBag.UserPermissionDetails != null)
+                                    {
+                                        var indexlist = (Dictionary<string, string>)ViewBag.UserPermissionDetails;
+                                        if (indexlist.ContainsKey("DepartmentMaster") || indexlist.ContainsKey("SubDepartmentMaster") || indexlist.ContainsKey("DepartmentHead")
+                                            || indexlist.ContainsKey("UserManagement") || indexlist.ContainsKey("RoleManagement") || indexlist.ContainsKey("UserRole")
+                                            || indexlist.ContainsKey("RolePage") || indexlist.ContainsKey("SMSMaster") || indexlist.ContainsKey("ResetPassword"))
+                                        {
+                                            <a><i class="fas fa-wrench"></i> Admin <span class="fas fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu nav-second-level">
+                                                @if (ViewBag.UserPermissionDetails != null)
+                                                {
+
+                                                    if (indexlist.ContainsKey("DepartmentMaster"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Department", "Index", "DepartmentMaster", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("SubDepartmentMaster"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Sub Department", "Index", "SubDepartmentMaster", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("DepartmentHead"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("Department Head", "Index", "DepartmentHead", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("UserManagement"))
+                                                    {
+                                                        <li id="UserManagement" role="presentation">
+                                                            @Html.ActionLink("User Master Management", "Index", "UserManagement", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("RoleManagement"))
+                                                    {
+                                                        <li id="RoleManagement" role="presentation">
+                                                            @Html.ActionLink("Role Master Management", "Index", "RoleManagement", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("UserRole"))
+                                                    {
+                                                        <li id="UserRole" role="presentation">
+                                                            @Html.ActionLink("User Role Mapping", "Index", "UserRole", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("RolePage"))
+                                                    {
+                                                        <li id="RolePage" role="presentation">
+                                                            @Html.ActionLink("Role Page Mapping", "Index", "RolePage", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("SMSMaster"))
+                                                    {
+                                                        <li id="OrderConfirmRule" role="presentation">
+                                                            @Html.ActionLink("SMS", "Index", "SMSMaster", new { Area = "Admin" }, new { })
+                                                        </li>
+                                                    }
+                                                    if (indexlist.ContainsKey("ResetPassword"))
+                                                    {
+                                                        <li id="ResetPassword" role="presentation">
+                                                            @Html.ActionLink("Reset Password", "Index", "ResetPassword", new { Area = "User" }, new { })
+                                                        </li>
+                                                    }
+
+                                                }
+                                            </ul>
+                                            <!-- /.nav-second-level -->
+                                        }
+                                    }
+                                </li>
+
+                                <li class="has_sub">
+                                    @if (ViewBag.UserPermissionDetails != null)
+                                    {
+                                        var indexlist = (Dictionary<string, string>)ViewBag.UserPermissionDetails;
+                                        if (indexlist.ContainsKey("DynamicReport"))
+                                        {
+                                            <a><i class="fa fa-file-text-o" aria-hidden="true"></i> Reports <span class="fas fa-chevron-down"></span></a>
+                                            <ul class="nav child_menu nav-second-level">
+                                                @if (ViewBag.UserPermissionDetails != null)
+                                                {
+                                                    if (indexlist.ContainsKey("DynamicReport"))
+                                                    {
+                                                        <li id="CustomReport" role="presentation">
+                                                            @Html.ActionLink("Custom Report", "Index", "DynamicReport", new { Area = "DynamicReport" }, new { })
+                                                        </li>
+                                                    }
+                                                }
+                                            </ul>
+                                        }
+                                    }
+                                    <!-- /.nav-second-level -->
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- /sidebar menu -->
+                </div>
+            </div>
+            <!-- top navigation -->
+            <div class="top_nav">
+                <div class="nav_menu">
+                    <nav>
+                        <div class="nav toggle">
+                            <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- /top navigation -->
+            <div id="page-wrapper">
+                <div class="right_col" role="main" style="min-height: 556px;">
+                    <div class="container-fluid">
+                        <!-- /.row -->
+                        <div id="main-wrapper">
+
+                            <div class="col-lg-12" style="padding-left:0px;padding-right:0px;">
+
+                                @RenderBody()
+
+                                <!-- /.panel-body -->
+                            </div>
+                            <!-- /.col-lg-12 -->
+                        </div>
+                        <!-- /.row -->
+                    </div>
+                    <!-- /.row -->
+                </div>
+                <!-- /#page-wrapper -->
+                @*<div class="form-content" style="display:none; width:400px;">
+                        <form class="form" role="form">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label class="control-label">Type</label>
+                                </div>
+                                <div class="col-md-2">
+                                    <label class="control-label">Item Value</label>
+                                </div>
+                                <div class="col-md-2">
+                                    <label class="control-label">Total Charges</label>
+                                </div>
+                                <div class="col-md-2">
+                                    <label class="control-label">Total Tax</label>
+                                </div>
+                                <div class="col-md-3">
+                                    <label class="control-label">Total</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label class="control-label">Existing</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label>
+                                            <input type="text" id="txtExistingValue" disabled="disabled" />
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtExistingCharges" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtExistingTaxes" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtTotalExistingValue" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label class="control-label">New</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label> <input type="text" id="txtNewValue" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtNewCharges" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtNewTaxes" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtTotalNewValue" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label class="control-label">BC Amount</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtBCAmount" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtBCAmountCharges" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtBCAmountTaxes" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtBCAmountValue" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label class="control-label">Difference</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label><label><input type="text" id="txtDiffAmount" disabled="disabled" /></label></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtDiffCharges" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtDiffTaxes" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label><input type="text" id="txtDiffValue" disabled="disabled" /></label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row form-group" id="divCCMessage" style="display:none;">
+                                <div class="col-md-12">
+                                    <label class="col-md-12">
+                                        You can't place the New / Exchange order due to insufficient balance.
+                                        Kindly use your limit to place the order.
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="row form-group">
+
+                                <div class="col-md-3">
+                                    <label for="text">Currency</label><br />
+                                    <input type="text" id="txtCurrencyCode" name="txtCCLimit" disabled />
+                                </div>
+                                <div class="col-md-2" style="text-align:center;">
+                                    <label for="text"> Use CC Limit</label><br />
+                                    <input type="checkbox" id="chkCCLimit" name="chkCCLimit" onclick="return onCheck()" />
+                                </div>
+                                <div class="col-md-2">
+                                    <label for="text">CC Agent Limit</label><br />
+                                    <input type="text" id="txtCCLimit" name="txtCCLimit" disabled />
+                                </div>
+
+                                <div class="col-md-2" style="text-align:center;">
+                                    <label for="text"> Write Off</label><br />
+                                    <input type="checkbox" id="chkRightOff" name="chkRightOff" />
+                                </div>
+                                <div class="col-md-3">
+                                    <label for="text">Write Off Limit</label><br />
+                                    <input type="text" id="txtWOFFLimit" name="txtCCLimit" />
+                                </div>
+
+
+                            </div>
+
+                            <div class="form-group" id="DivApproverLimit" style="display:none;">
+                                <label for="text">Your Limit</label>
+                                <input type="text" class="form-control" id="txtApproverLimit" name="txtApproverLimit" disabled />
+                            </div>
+                            <div id="divManagerCredential" style="display:none;">
+                                <div class="row form-group">
+                                    <div class="col-md-12">
+                                        <label for="text">
+                                            You can't place the New / Exchange order due to difference amount.
+                                            If you still want to place the order, Kindly enter Approver's Credentials.
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col-md-4">
+                                        <label for="text">UserID</label>
+                                        <input type="text" class="form-control" id="txtPromptUserID" name="PromptUserID" placeholder="Enter UserID" value="" />
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label for="password">Password</label>
+                                        <input type="password" class="form-control" id="txtPromptPassword" name="PromptPassword" placeholder="Password" />
+                                    </div>
+                                    <div class="col-md-4">
+                                        <label for="password"></label>
+                                        <a href="javascript:void(0)" class="btn btn-primary a-btn-slide-text" onclick="return getApproverLimit()" style="margin-top:24px;">
+                                            <span class="glyphicon glyphicon-edit" aria-hidden="true"></span>
+                                            <span><strong>Get Approver Limit</strong></span>
+                                        </a>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </form>
+                    </div>*@
+
+                <!-- /#page-wrapper -->
+            </div>
+        </div>
+    </div>
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="~/Scripts/jquery.min.js"></script>
+    @*<script src="~/Scripts/PageScripts/ApprovalPrompt.js"></script>*@
+    <!-- Bootstrap -->
+    <script src="~/Scripts/ConfigScripts/ApiUrl.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.dataTables.min.js"></script>
+    <script src="~/Scripts/dataTables.bootstrap.min.js"></script>
+    <script src="~/Scripts/dataTables.fixedHeader.min.js"></script>
+
+    <script src="../../Scripts/bootbox.min.js"></script>
+    <!-- Toastr JS -->
+    <script src="~/Scripts/toastr.min.js"></script>
+    <!-- Datatable -->
+    <script src="~/Scripts/bootstrap-table.min.js"></script>
+    <script src="~/Scripts/popper.min.js"></script>
+    <!--Datepicker-->
+    <script type="text/javascript" src="../../Scripts/DateTimePicker/jquery-ui.min.js"></script>
+    <!-- Custom Theme Scripts -->
+    <script src="~/Scripts/custom.min.js"></script>
+    <script src="~/Scripts/PageScripts/Pager.js"></script>
+    @RenderSection("scripts", required: false)
+
+    <script language="javascript" type="text/javascript">
+        var userId = '@ViewBag.UserInfo.Id';
+        var RequestedUserId = '@ViewBag.RequestedUserId';
+        function RedirectToLoginOnSuccess(response) {
+            var responsesuccessLogin;
+            if (response != '') {
+                if (typeof (response) === 'string') {
+                    responsesuccessLogin = response;
+                }
+                else {
+                    responsesuccessLogin = JSON.stringify(response);
+                }
+                if (responsesuccessLogin.indexOf('logo-login.png') > 0) {
+                    location.reload(true);
+                }
+            }
+
+        }
+        function RedirectToLoginOnError(response) {
+            var responseErrorLogin;
+            if (response != '') {
+                if (typeof (response) === 'string') {
+                    responsesuccessLogin = response;
+                }
+                else {
+                    responseErrorLogin = JSON.stringify(response);
+                }
+                if (responseErrorLogin.indexOf('logo-login.png') > 0) {
+                    location.reload(true);
+                }
+            }
+        }
+        function HideProgress() {
+            $("#pluswrap").addClass("hide");
+        }
+        function ShowProgress() {
+            $("#pluswrap").removeClass("hide");
+        }
+        function financial(x) {
+            return Number.parseFloat(x).toFixed(3);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,310 @@
+
+#tblCostSheetFabricPdfData td {
+    border: 1px solid black !important;
+    text-align: center;
+    padding: 6px 12px 4px;
+}
+#CostSheetMainTable td,CostSheetMainTable th {
+    padding: 6px 12px 4px;
+}
+#tblCostSheetFabricPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetAccessoryPdfData td {
+    border: 1px solid black !important;
+    text-align: center;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetAccessoryPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetTrimsPdfData td {
+    border: 1px solid black !important;
+    text-align: center;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetTrimsPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetCMPdfData td {
+    border: 1px solid black !important;
+    text-align: center;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetCMPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetArtworkPdfData td {
+    border: 1px solid black !important;
+    text-align: center;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetArtworkPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetOtherPdfData td {
+    border: 1px solid black !important;
+    text-align: center;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetOtherPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetQuotedPdfData td {
+    border: 1px solid black !important;
+    text-align: center;
+    padding: 6px 12px 4px;
+}
+
+#tblCostSheetQuotedPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*@media print {
+    table, table tr, table td {
+        border-top: #000 solid 1px;
+        border-bottom: #000 solid 1px;
+        border-left: #000 solid 1px;
+        border-right: #000 solid 1px;
+    }
+}*/
+
+
+/*=========================Buyer Order Pdf ===============*/
+#tblBuyerOrderComboPdfData td, #tblBuyerOrderComboPdfData th {
+  border: 1px solid black !important;
+  padding: 6px 12px 4px;
+}
+
+#tblBuyerOrderProductionComboPdfData td, #tblBuyerOrderProductionComboPdfData th {
+  border: 1px solid black !important;
+  padding: 6px 12px 4px;
+}
+#tblBuyerOrderPdfData td, #tblBuyerOrderPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+
+#tblBuyerOrderProductionPdfData td, #tblBuyerOrderProductionPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblBuyerOrderMainData td, #tblBuyerOrderMainData th {
+    padding: 6px 12px 4px;
+}
+/*=========================BOM Pdf ===============*/
+#tblBillOfMaterialPdfData td, #tblBillOfMaterialPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblBillOfMaterialMainData td, #tblBillOfMaterialMainData th {
+    padding: 6px 12px 4px;
+}
+
+#tblBillOfMaterialAccPdfData td, #tblBillOfMaterialAccPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+
+/*=========================PRO Pdf ===============*/
+#tblPROPdfData td, #tblPROPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblPROMainData td, #tblPROMainData th {
+    padding: 6px 12px 4px;
+}
+/*=========================JO Pdf ===============*/
+#tblJobOrderPdfData td, #tblJobOrderPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================GRN Pdf ===============*/
+#tblGRNPdfData td, #tblGRNPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblGRNMainData td, #tblGRNMainData th {
+    padding: 6px 12px 4px;
+}
+/*=========================PRC Pdf ===============*/
+#tblPRCPdfData td, #tblPRCPdfData th {
+    border: 1px solid black !important;
+     padding: 6px 12px 4px;
+}
+#tblPRCMainData td, #tblPRCMainData th {
+    padding: 6px 12px 4px;
+}
+/*=========================DebitNote Pdf ===============*/
+#tblDebitNotePdfData td, #tblDebitNotePdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblDebitNotePdfMain td{
+    padding: 6px 12px 4px;
+}
+/*=========================Gir Pdf ===============*/
+#tblGIRPdfData td, #tblGIRPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblGIRMainData td, #tblGIRMainData th {
+    
+    padding: 6px 12px 4px;
+}
+/*=========================Gir Trims Pdf ===============*/
+#tblGIRTrimsPdfData td, #tblGIRTrimsPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblGIRTrimsMainData td, #tblGIRTrimsMainData th {
+    
+    padding: 6px 12px 4px;
+}
+/*=========================Gir Trims Qty Pdf ===============*/
+#tblGIRTrimsPdfQtyData td, #tblGIRTrimsPdfQtyData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblGIRTrimsPdfQtyDataBody td {
+    
+    padding: 6px 12px 4px;
+}
+/*=========================MIC Pdf ===============*/
+#tblMICPdfData td, #tblMICPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblMICMainData td, #tblMICMainData th {
+    
+    padding: 6px 12px 4px;
+}
+/*=========================GIN Pdf ===============*/
+#tblGINPdfData td, #tblGINPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblGINMainData td, #tblGINMainData th {
+    
+    padding: 6px 12px 4px;
+}
+/*=========================LabTest Pdf ===============*/
+#tblLabTestPdfData td, #tblLabTestPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================LabTest Pdf ===============*/
+#tblLabTestPhysicalPdfData td, #tblLabTestPhysicalPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================LabTest Pdf ===============*/
+#tblLabTestAccessoryPdfData td, #tblLabTestAccessoryPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================LabTest Pdf ===============*/
+#tblLabTestPullTestPdfData td, #tblLabTestPullTestPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================LabTest Pdf ===============*/
+#LabtestMain td, #LabtestMain th {
+    
+    padding: 6px 12px 4px;
+}
+/*=========================PO Pdf ===============*/
+#tblPurchaseOrderPdfData td, #tblPurchaseOrderPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================Item PO Pdf ===============*/
+#tblItemPurchaseOrderPdfData td, #tblItemPurchaseOrderPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblItemPurchaseOrderMainPdfData td, #tblItemPurchaseOrderMainPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================PO Pdf ===============*/
+#POMain td, #POMain th {
+    
+    padding: 6px 12px 4px;
+}
+/*=========================PO Pdf ===============*/
+#tblFabricData td, #tblFabricData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+#tblPurchaseOrderMainPdfData td, #tblPurchaseOrderMainPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================Packing Pdf ===============*/
+#PackingListSolidTableData td, #PackingListSolidTableData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================Packing Pdf ===============*/
+#PackingListAssortedTableData td, #PackingListAssortedTableData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================Packing Pdf ===============*/
+#PackingListSummaryTableData td, #PackingListSummaryTableData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+/*=========================Packing Pdf ===============*/
+#PackingListInvoiceTableData td, #PackingListInvoiceTableData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+    text-align:center;
+}
+/*=========================Indent Pdf ===============*/
+#tblIndentPdfData td, #tblIndentPdfData th {
+    border: 1px solid black !important;
+    padding: 6px 12px 4px;
+}
+
+/*=========================Challan Pdf ===============*/
+#tblDcPdfData td, #tblDcPdfData th {
+  border: 1px solid black !important;
+  padding: 6px 12px 4px;
+}
+
+/*=========================WorkOrder Pdf ===============*/
+#tblFabricPdfData td, #tblFabricPdfData th {
+  border: 1px solid black !important;
+  padding: 6px 12px 4px;
+}
+#tblTrimsPdfData td, #tblTrimsPdfData th {
+  border: 1px solid black !important;
+  padding: 6px 12px 4px;
+}
+
+
+
+
+
+
+
+

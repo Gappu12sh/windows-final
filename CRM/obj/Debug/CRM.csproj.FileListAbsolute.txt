@@ -1,0 +1,1549 @@
+D:\BoutiqaatProjects\crm_old\CRM\bin\CRM.dll.config
+D:\BoutiqaatProjects\crm_old\CRM\bin\CRM.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\CRM.pdb
+D:\BoutiqaatProjects\crm_old\CRM\bin\BarcodeLib.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\CRMDAL.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\CRMUtility.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\DataMatrix.net.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\DotNetOpenAuth.AspNet.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\EntityFramework.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\EntityFramework.SqlServer.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\itextsharp.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\log4net.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\LumenWorks.Framework.IO.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\Microsoft.Web.Helpers.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\Microsoft.Web.Infrastructure.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\MySql.Data.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\Newtonsoft.Json.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Net.Http.Extensions.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Net.Http.Formatting.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Net.Http.Primitives.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Helpers.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Http.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Http.WebHost.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Mvc.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Optimization.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Providers.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Razor.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.WebPages.Deployment.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.WebPages.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.WebPages.Razor.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\WebMatrix.Data.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\WebMatrix.WebData.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\DotNetOpenAuth.OAuth.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\DotNetOpenAuth.Core.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\DotNetOpenAuth.OpenId.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\WebGrease.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\Microsoft.Practices.Unity.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\Antlr3.Runtime.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+D:\BoutiqaatProjects\crm_old\CRM\bin\CRMDAL.pdb
+D:\BoutiqaatProjects\crm_old\CRM\bin\CRMDAL.dll.config
+D:\BoutiqaatProjects\crm_old\CRM\bin\CRMUtility.pdb
+D:\BoutiqaatProjects\crm_old\CRM\bin\EntityFramework.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\EntityFramework.SqlServer.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\Newtonsoft.Json.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Net.Http.Extensions.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Net.Http.Formatting.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Net.Http.Primitives.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Helpers.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Http.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Http.WebHost.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Mvc.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Providers.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.Razor.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.WebPages.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.WebPages.Deployment.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\System.Web.WebPages.Razor.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\WebMatrix.Data.xml
+D:\BoutiqaatProjects\crm_old\CRM\bin\WebMatrix.WebData.xml
+D:\BoutiqaatProjects\crm_old\CRM\obj\Debug\CRM.csproj.App.config
+D:\BoutiqaatProjects\crm_old\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+D:\BoutiqaatProjects\crm_old\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\BoutiqaatProjects\crm_old\CRM\obj\Debug\CRM.csproj.CopyComplete
+D:\BoutiqaatProjects\crm_old\CRM\obj\Debug\CRM.dll
+D:\BoutiqaatProjects\crm_old\CRM\obj\Debug\CRM.pdb
+D:\D\Manoj\TravelCRM\CRM\bin\CRM.dll.config
+D:\D\Manoj\TravelCRM\CRM\bin\CRM.dll
+D:\D\Manoj\TravelCRM\CRM\bin\CRM.pdb
+D:\D\Manoj\TravelCRM\CRM\bin\BarcodeLib.dll
+D:\D\Manoj\TravelCRM\CRM\bin\CRMDAL.dll
+D:\D\Manoj\TravelCRM\CRM\bin\CRMUtility.dll
+D:\D\Manoj\TravelCRM\CRM\bin\DataMatrix.net.dll
+D:\D\Manoj\TravelCRM\CRM\bin\DotNetOpenAuth.AspNet.dll
+D:\D\Manoj\TravelCRM\CRM\bin\EntityFramework.dll
+D:\D\Manoj\TravelCRM\CRM\bin\EntityFramework.SqlServer.dll
+D:\D\Manoj\TravelCRM\CRM\bin\itextsharp.dll
+D:\D\Manoj\TravelCRM\CRM\bin\log4net.dll
+D:\D\Manoj\TravelCRM\CRM\bin\LumenWorks.Framework.IO.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.ReportViewer.Common.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.ReportViewer.WebForms.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.SqlServer.Types.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.Web.Helpers.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.Web.Infrastructure.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\D\Manoj\TravelCRM\CRM\bin\MySql.Data.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Newtonsoft.Json.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Net.Http.Extensions.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Net.Http.Formatting.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Net.Http.Primitives.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Helpers.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Http.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Http.WebHost.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Mvc.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Optimization.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Providers.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Razor.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.WebPages.Deployment.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.WebPages.dll
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.WebPages.Razor.dll
+D:\D\Manoj\TravelCRM\CRM\bin\WebMatrix.Data.dll
+D:\D\Manoj\TravelCRM\CRM\bin\WebMatrix.WebData.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\D\Manoj\TravelCRM\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\D\Manoj\TravelCRM\CRM\bin\DotNetOpenAuth.OAuth.dll
+D:\D\Manoj\TravelCRM\CRM\bin\DotNetOpenAuth.Core.dll
+D:\D\Manoj\TravelCRM\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\D\Manoj\TravelCRM\CRM\bin\DotNetOpenAuth.OpenId.dll
+D:\D\Manoj\TravelCRM\CRM\bin\WebGrease.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.Practices.Unity.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Antlr3.Runtime.dll
+D:\D\Manoj\TravelCRM\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+D:\D\Manoj\TravelCRM\CRM\bin\CRMDAL.pdb
+D:\D\Manoj\TravelCRM\CRM\bin\CRMDAL.dll.config
+D:\D\Manoj\TravelCRM\CRM\bin\CRMUtility.pdb
+D:\D\Manoj\TravelCRM\CRM\bin\EntityFramework.xml
+D:\D\Manoj\TravelCRM\CRM\bin\EntityFramework.SqlServer.xml
+D:\D\Manoj\TravelCRM\CRM\bin\Newtonsoft.Json.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Net.Http.Extensions.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Net.Http.Formatting.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Net.Http.Primitives.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Helpers.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Http.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Http.WebHost.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Mvc.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Providers.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.Razor.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.WebPages.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.WebPages.Deployment.xml
+D:\D\Manoj\TravelCRM\CRM\bin\System.Web.WebPages.Razor.xml
+D:\D\Manoj\TravelCRM\CRM\bin\WebMatrix.Data.xml
+D:\D\Manoj\TravelCRM\CRM\bin\WebMatrix.WebData.xml
+D:\D\Manoj\TravelCRM\CRM\obj\Debug\CRM.csproj.App.config
+D:\D\Manoj\TravelCRM\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+D:\D\Manoj\TravelCRM\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\D\Manoj\TravelCRM\CRM\obj\Debug\CRM.csproj.CopyComplete
+D:\D\Manoj\TravelCRM\CRM\obj\Debug\CRM.dll
+D:\D\Manoj\TravelCRM\CRM\obj\Debug\CRM.pdb
+D:\TravelCRM\CRM\bin\CRM.dll.config
+D:\TravelCRM\CRM\bin\CRM.dll
+D:\TravelCRM\CRM\bin\CRM.pdb
+D:\TravelCRM\CRM\bin\BarcodeLib.dll
+D:\TravelCRM\CRM\bin\CRMDAL.dll
+D:\TravelCRM\CRM\bin\CRMUtility.dll
+D:\TravelCRM\CRM\bin\DataMatrix.net.dll
+D:\TravelCRM\CRM\bin\DotNetOpenAuth.AspNet.dll
+D:\TravelCRM\CRM\bin\EntityFramework.dll
+D:\TravelCRM\CRM\bin\EntityFramework.SqlServer.dll
+D:\TravelCRM\CRM\bin\itextsharp.dll
+D:\TravelCRM\CRM\bin\log4net.dll
+D:\TravelCRM\CRM\bin\LumenWorks.Framework.IO.dll
+D:\TravelCRM\CRM\bin\Microsoft.ReportViewer.Common.dll
+D:\TravelCRM\CRM\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\TravelCRM\CRM\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TravelCRM\CRM\bin\Microsoft.ReportViewer.WebForms.dll
+D:\TravelCRM\CRM\bin\Microsoft.Web.Helpers.dll
+D:\TravelCRM\CRM\bin\Microsoft.Web.Infrastructure.dll
+D:\TravelCRM\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\TravelCRM\CRM\bin\MySql.Data.dll
+D:\TravelCRM\CRM\bin\Newtonsoft.Json.dll
+D:\TravelCRM\CRM\bin\System.Net.Http.Extensions.dll
+D:\TravelCRM\CRM\bin\System.Net.Http.Formatting.dll
+D:\TravelCRM\CRM\bin\System.Net.Http.Primitives.dll
+D:\TravelCRM\CRM\bin\System.Web.Helpers.dll
+D:\TravelCRM\CRM\bin\System.Web.Http.dll
+D:\TravelCRM\CRM\bin\System.Web.Http.WebHost.dll
+D:\TravelCRM\CRM\bin\System.Web.Mvc.dll
+D:\TravelCRM\CRM\bin\System.Web.Optimization.dll
+D:\TravelCRM\CRM\bin\System.Web.Providers.dll
+D:\TravelCRM\CRM\bin\System.Web.Razor.dll
+D:\TravelCRM\CRM\bin\System.Web.WebPages.Deployment.dll
+D:\TravelCRM\CRM\bin\System.Web.WebPages.dll
+D:\TravelCRM\CRM\bin\System.Web.WebPages.Razor.dll
+D:\TravelCRM\CRM\bin\WebMatrix.Data.dll
+D:\TravelCRM\CRM\bin\WebMatrix.WebData.dll
+D:\TravelCRM\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\TravelCRM\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\TravelCRM\CRM\bin\DotNetOpenAuth.OAuth.dll
+D:\TravelCRM\CRM\bin\DotNetOpenAuth.Core.dll
+D:\TravelCRM\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\TravelCRM\CRM\bin\DotNetOpenAuth.OpenId.dll
+D:\TravelCRM\CRM\bin\WebGrease.dll
+D:\TravelCRM\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TravelCRM\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+D:\TravelCRM\CRM\bin\Microsoft.Practices.Unity.dll
+D:\TravelCRM\CRM\bin\Antlr3.Runtime.dll
+D:\TravelCRM\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+D:\TravelCRM\CRM\bin\CRMDAL.pdb
+D:\TravelCRM\CRM\bin\CRMUtility.pdb
+D:\TravelCRM\CRM\bin\EntityFramework.xml
+D:\TravelCRM\CRM\bin\EntityFramework.SqlServer.xml
+D:\TravelCRM\CRM\bin\Newtonsoft.Json.xml
+D:\TravelCRM\CRM\bin\System.Net.Http.Extensions.xml
+D:\TravelCRM\CRM\bin\System.Net.Http.Formatting.xml
+D:\TravelCRM\CRM\bin\System.Net.Http.Primitives.xml
+D:\TravelCRM\CRM\bin\System.Web.Helpers.xml
+D:\TravelCRM\CRM\bin\System.Web.Http.xml
+D:\TravelCRM\CRM\bin\System.Web.Http.WebHost.xml
+D:\TravelCRM\CRM\bin\System.Web.Mvc.xml
+D:\TravelCRM\CRM\bin\System.Web.Providers.xml
+D:\TravelCRM\CRM\bin\System.Web.Razor.xml
+D:\TravelCRM\CRM\bin\System.Web.WebPages.xml
+D:\TravelCRM\CRM\bin\System.Web.WebPages.Deployment.xml
+D:\TravelCRM\CRM\bin\System.Web.WebPages.Razor.xml
+D:\TravelCRM\CRM\bin\WebMatrix.Data.xml
+D:\TravelCRM\CRM\bin\WebMatrix.WebData.xml
+D:\TravelCRM\CRM\obj\Debug\CRM.csproj.App.config
+D:\TravelCRM\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\TravelCRM\CRM\obj\Debug\CRM.dll
+D:\TravelCRM\CRM\obj\Debug\CRM.pdb
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\CRM.dll.config
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\CRM.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\CRM.pdb
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\BarcodeLib.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\CRMDAL.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\CRMUtility.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\DataMatrix.net.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\DotNetOpenAuth.AspNet.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\EntityFramework.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\EntityFramework.SqlServer.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\itextsharp.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\log4net.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\LumenWorks.Framework.IO.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Microsoft.Web.Helpers.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Microsoft.Web.Infrastructure.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\MySql.Data.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Newtonsoft.Json.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Net.Http.Extensions.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Net.Http.Formatting.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Net.Http.Primitives.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Helpers.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Http.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Http.WebHost.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Mvc.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Optimization.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Providers.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Razor.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.WebPages.Deployment.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.WebPages.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.WebPages.Razor.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\WebMatrix.Data.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\WebMatrix.WebData.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\DotNetOpenAuth.OAuth.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\DotNetOpenAuth.Core.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\DotNetOpenAuth.OpenId.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\WebGrease.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Microsoft.Practices.Unity.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Antlr3.Runtime.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\CRMDAL.pdb
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\CRMUtility.pdb
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\EntityFramework.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\EntityFramework.SqlServer.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\Newtonsoft.Json.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Net.Http.Extensions.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Net.Http.Formatting.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Net.Http.Primitives.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Helpers.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Http.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Http.WebHost.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Mvc.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Providers.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.Razor.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.WebPages.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.WebPages.Deployment.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\System.Web.WebPages.Razor.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\WebMatrix.Data.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\bin\WebMatrix.WebData.xml
+F:\Parth\TravelCRM\TravelCRM\CRM\obj\Debug\CRM.csproj.App.config
+F:\Parth\TravelCRM\TravelCRM\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+F:\Parth\TravelCRM\TravelCRM\CRM\obj\Debug\CRM.dll
+F:\Parth\TravelCRM\TravelCRM\CRM\obj\Debug\CRM.pdb
+F:\TravelCRM\LAJERP\CRM\bin\CRM.dll.config
+F:\TravelCRM\LAJERP\CRM\bin\CRM.dll
+F:\TravelCRM\LAJERP\CRM\bin\CRM.pdb
+F:\TravelCRM\LAJERP\CRM\bin\BarcodeLib.dll
+F:\TravelCRM\LAJERP\CRM\bin\CRMDAL.dll
+F:\TravelCRM\LAJERP\CRM\bin\CRMUtility.dll
+F:\TravelCRM\LAJERP\CRM\bin\DataMatrix.net.dll
+F:\TravelCRM\LAJERP\CRM\bin\DotNetOpenAuth.AspNet.dll
+F:\TravelCRM\LAJERP\CRM\bin\EntityFramework.dll
+F:\TravelCRM\LAJERP\CRM\bin\EntityFramework.SqlServer.dll
+F:\TravelCRM\LAJERP\CRM\bin\itextsharp.dll
+F:\TravelCRM\LAJERP\CRM\bin\log4net.dll
+F:\TravelCRM\LAJERP\CRM\bin\LumenWorks.Framework.IO.dll
+F:\TravelCRM\LAJERP\CRM\bin\Microsoft.Web.Helpers.dll
+F:\TravelCRM\LAJERP\CRM\bin\Microsoft.Web.Infrastructure.dll
+F:\TravelCRM\LAJERP\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\TravelCRM\LAJERP\CRM\bin\MySql.Data.dll
+F:\TravelCRM\LAJERP\CRM\bin\Newtonsoft.Json.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Net.Http.Extensions.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Net.Http.Formatting.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Net.Http.Primitives.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Helpers.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Http.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Http.WebHost.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Mvc.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Optimization.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Providers.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Razor.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.WebPages.Deployment.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.WebPages.dll
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.WebPages.Razor.dll
+F:\TravelCRM\LAJERP\CRM\bin\WebMatrix.Data.dll
+F:\TravelCRM\LAJERP\CRM\bin\WebMatrix.WebData.dll
+F:\TravelCRM\LAJERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\TravelCRM\LAJERP\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\TravelCRM\LAJERP\CRM\bin\DotNetOpenAuth.OAuth.dll
+F:\TravelCRM\LAJERP\CRM\bin\DotNetOpenAuth.Core.dll
+F:\TravelCRM\LAJERP\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\TravelCRM\LAJERP\CRM\bin\DotNetOpenAuth.OpenId.dll
+F:\TravelCRM\LAJERP\CRM\bin\WebGrease.dll
+F:\TravelCRM\LAJERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\TravelCRM\LAJERP\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+F:\TravelCRM\LAJERP\CRM\bin\Microsoft.Practices.Unity.dll
+F:\TravelCRM\LAJERP\CRM\bin\Antlr3.Runtime.dll
+F:\TravelCRM\LAJERP\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+F:\TravelCRM\LAJERP\CRM\bin\CRMDAL.pdb
+F:\TravelCRM\LAJERP\CRM\bin\CRMDAL.dll.config
+F:\TravelCRM\LAJERP\CRM\bin\CRMUtility.pdb
+F:\TravelCRM\LAJERP\CRM\bin\EntityFramework.xml
+F:\TravelCRM\LAJERP\CRM\bin\EntityFramework.SqlServer.xml
+F:\TravelCRM\LAJERP\CRM\bin\Newtonsoft.Json.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Net.Http.Extensions.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Net.Http.Formatting.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Net.Http.Primitives.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Helpers.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Http.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Http.WebHost.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Mvc.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Providers.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.Razor.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.WebPages.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.WebPages.Deployment.xml
+F:\TravelCRM\LAJERP\CRM\bin\System.Web.WebPages.Razor.xml
+F:\TravelCRM\LAJERP\CRM\bin\WebMatrix.Data.xml
+F:\TravelCRM\LAJERP\CRM\bin\WebMatrix.WebData.xml
+F:\TravelCRM\LAJERP\CRM\obj\Debug\CRM.csproj.App.config
+F:\TravelCRM\LAJERP\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+F:\TravelCRM\LAJERP\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+F:\TravelCRM\LAJERP\CRM\obj\Debug\CRM.csproj.CopyComplete
+F:\TravelCRM\LAJERP\CRM\obj\Debug\CRM.dll
+F:\TravelCRM\LAJERP\CRM\obj\Debug\CRM.pdb
+G:\New LajErp\1703\LAJERP\CRM\bin\CRM.dll.config
+G:\New LajErp\1703\LAJERP\CRM\bin\CRM.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\CRM.pdb
+G:\New LajErp\1703\LAJERP\CRM\bin\BarcodeLib.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\CRMDAL.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\CRMUtility.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\DataMatrix.net.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\DotNetOpenAuth.AspNet.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\EntityFramework.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\EntityFramework.SqlServer.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\itextsharp.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\log4net.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\LumenWorks.Framework.IO.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\Microsoft.Web.Helpers.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\Microsoft.Web.Infrastructure.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\MySql.Data.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\Newtonsoft.Json.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Net.Http.Extensions.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Net.Http.Formatting.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Net.Http.Primitives.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Helpers.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Http.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Http.WebHost.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Mvc.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Optimization.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Providers.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Razor.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.WebPages.Deployment.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.WebPages.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.WebPages.Razor.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\WebMatrix.Data.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\WebMatrix.WebData.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\DotNetOpenAuth.OAuth.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\DotNetOpenAuth.Core.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\DotNetOpenAuth.OpenId.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\WebGrease.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\Microsoft.Practices.Unity.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\Antlr3.Runtime.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+G:\New LajErp\1703\LAJERP\CRM\bin\CRMDAL.pdb
+G:\New LajErp\1703\LAJERP\CRM\bin\CRMUtility.pdb
+G:\New LajErp\1703\LAJERP\CRM\bin\EntityFramework.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\EntityFramework.SqlServer.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\Newtonsoft.Json.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Net.Http.Extensions.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Net.Http.Formatting.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Net.Http.Primitives.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Helpers.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Http.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Http.WebHost.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Mvc.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Providers.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.Razor.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.WebPages.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.WebPages.Deployment.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\System.Web.WebPages.Razor.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\WebMatrix.Data.xml
+G:\New LajErp\1703\LAJERP\CRM\bin\WebMatrix.WebData.xml
+G:\New LajErp\1703\LAJERP\CRM\obj\Debug\CRM.csproj.App.config
+G:\New LajErp\1703\LAJERP\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+G:\New LajErp\1703\LAJERP\CRM\obj\Debug\CRM.dll
+G:\New LajErp\1703\LAJERP\CRM\obj\Debug\CRM.pdb
+E:\LAJERP\CRM\bin\CRM.dll.config
+E:\LAJERP\CRM\bin\CRM.dll
+E:\LAJERP\CRM\bin\CRM.pdb
+E:\LAJERP\CRM\bin\BarcodeLib.dll
+E:\LAJERP\CRM\bin\CRMDAL.dll
+E:\LAJERP\CRM\bin\CRMUtility.dll
+E:\LAJERP\CRM\bin\DataMatrix.net.dll
+E:\LAJERP\CRM\bin\DotNetOpenAuth.AspNet.dll
+E:\LAJERP\CRM\bin\EntityFramework.dll
+E:\LAJERP\CRM\bin\EntityFramework.SqlServer.dll
+E:\LAJERP\CRM\bin\itextsharp.dll
+E:\LAJERP\CRM\bin\log4net.dll
+E:\LAJERP\CRM\bin\LumenWorks.Framework.IO.dll
+E:\LAJERP\CRM\bin\Microsoft.SqlServer.Types.dll
+E:\LAJERP\CRM\bin\Microsoft.Web.Helpers.dll
+E:\LAJERP\CRM\bin\Microsoft.Web.Infrastructure.dll
+E:\LAJERP\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\LAJERP\CRM\bin\MySql.Data.dll
+E:\LAJERP\CRM\bin\Newtonsoft.Json.dll
+E:\LAJERP\CRM\bin\System.Net.Http.Extensions.dll
+E:\LAJERP\CRM\bin\System.Net.Http.Formatting.dll
+E:\LAJERP\CRM\bin\System.Net.Http.Primitives.dll
+E:\LAJERP\CRM\bin\System.Web.Helpers.dll
+E:\LAJERP\CRM\bin\System.Web.Http.dll
+E:\LAJERP\CRM\bin\System.Web.Http.WebHost.dll
+E:\LAJERP\CRM\bin\System.Web.Mvc.dll
+E:\LAJERP\CRM\bin\System.Web.Optimization.dll
+E:\LAJERP\CRM\bin\System.Web.Providers.dll
+E:\LAJERP\CRM\bin\System.Web.Razor.dll
+E:\LAJERP\CRM\bin\System.Web.WebPages.Deployment.dll
+E:\LAJERP\CRM\bin\System.Web.WebPages.dll
+E:\LAJERP\CRM\bin\System.Web.WebPages.Razor.dll
+E:\LAJERP\CRM\bin\WebMatrix.Data.dll
+E:\LAJERP\CRM\bin\WebMatrix.WebData.dll
+E:\LAJERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\LAJERP\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\LAJERP\CRM\bin\DotNetOpenAuth.OAuth.dll
+E:\LAJERP\CRM\bin\DotNetOpenAuth.Core.dll
+E:\LAJERP\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\LAJERP\CRM\bin\DotNetOpenAuth.OpenId.dll
+E:\LAJERP\CRM\bin\WebGrease.dll
+E:\LAJERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\LAJERP\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+E:\LAJERP\CRM\bin\Microsoft.Practices.Unity.dll
+E:\LAJERP\CRM\bin\Antlr3.Runtime.dll
+E:\LAJERP\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+E:\LAJERP\CRM\bin\CRMDAL.pdb
+E:\LAJERP\CRM\bin\CRMUtility.pdb
+E:\LAJERP\CRM\bin\EntityFramework.xml
+E:\LAJERP\CRM\bin\EntityFramework.SqlServer.xml
+E:\LAJERP\CRM\bin\Newtonsoft.Json.xml
+E:\LAJERP\CRM\bin\System.Net.Http.Extensions.xml
+E:\LAJERP\CRM\bin\System.Net.Http.Formatting.xml
+E:\LAJERP\CRM\bin\System.Net.Http.Primitives.xml
+E:\LAJERP\CRM\bin\System.Web.Helpers.xml
+E:\LAJERP\CRM\bin\System.Web.Http.xml
+E:\LAJERP\CRM\bin\System.Web.Http.WebHost.xml
+E:\LAJERP\CRM\bin\System.Web.Mvc.xml
+E:\LAJERP\CRM\bin\System.Web.Providers.xml
+E:\LAJERP\CRM\bin\System.Web.Razor.xml
+E:\LAJERP\CRM\bin\System.Web.WebPages.xml
+E:\LAJERP\CRM\bin\System.Web.WebPages.Deployment.xml
+E:\LAJERP\CRM\bin\System.Web.WebPages.Razor.xml
+E:\LAJERP\CRM\bin\WebMatrix.Data.xml
+E:\LAJERP\CRM\bin\WebMatrix.WebData.xml
+E:\LAJERP\CRM\obj\Debug\CRM.csproj.App.config
+E:\LAJERP\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\LAJERP\CRM\obj\Debug\CRM.dll
+E:\LAJERP\CRM\obj\Debug\CRM.pdb
+E:\BangaloreLAJERP\CRM\bin\CRM.dll.config
+E:\BangaloreLAJERP\CRM\bin\CRM.dll
+E:\BangaloreLAJERP\CRM\bin\CRM.pdb
+E:\BangaloreLAJERP\CRM\bin\BarcodeLib.dll
+E:\BangaloreLAJERP\CRM\bin\CRMDAL.dll
+E:\BangaloreLAJERP\CRM\bin\CRMUtility.dll
+E:\BangaloreLAJERP\CRM\bin\DataMatrix.net.dll
+E:\BangaloreLAJERP\CRM\bin\DotNetOpenAuth.AspNet.dll
+E:\BangaloreLAJERP\CRM\bin\EntityFramework.dll
+E:\BangaloreLAJERP\CRM\bin\EntityFramework.SqlServer.dll
+E:\BangaloreLAJERP\CRM\bin\itextsharp.dll
+E:\BangaloreLAJERP\CRM\bin\log4net.dll
+E:\BangaloreLAJERP\CRM\bin\LumenWorks.Framework.IO.dll
+E:\BangaloreLAJERP\CRM\bin\Microsoft.SqlServer.Types.dll
+E:\BangaloreLAJERP\CRM\bin\Microsoft.Web.Helpers.dll
+E:\BangaloreLAJERP\CRM\bin\Microsoft.Web.Infrastructure.dll
+E:\BangaloreLAJERP\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\BangaloreLAJERP\CRM\bin\MySql.Data.dll
+E:\BangaloreLAJERP\CRM\bin\Newtonsoft.Json.dll
+E:\BangaloreLAJERP\CRM\bin\System.Net.Http.Extensions.dll
+E:\BangaloreLAJERP\CRM\bin\System.Net.Http.Formatting.dll
+E:\BangaloreLAJERP\CRM\bin\System.Net.Http.Primitives.dll
+E:\BangaloreLAJERP\CRM\bin\System.Web.Helpers.dll
+E:\BangaloreLAJERP\CRM\bin\System.Web.Http.dll
+E:\BangaloreLAJERP\CRM\bin\System.Web.Http.WebHost.dll
+E:\BangaloreLAJERP\CRM\bin\System.Web.Mvc.dll
+E:\BangaloreLAJERP\CRM\bin\System.Web.Optimization.dll
+E:\BangaloreLAJERP\CRM\bin\System.Web.Providers.dll
+E:\BangaloreLAJERP\CRM\bin\System.Web.Razor.dll
+E:\BangaloreLAJERP\CRM\bin\System.Web.WebPages.Deployment.dll
+E:\BangaloreLAJERP\CRM\bin\System.Web.WebPages.dll
+E:\BangaloreLAJERP\CRM\bin\System.Web.WebPages.Razor.dll
+E:\BangaloreLAJERP\CRM\bin\WebMatrix.Data.dll
+E:\BangaloreLAJERP\CRM\bin\WebMatrix.WebData.dll
+E:\BangaloreLAJERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\BangaloreLAJERP\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\BangaloreLAJERP\CRM\bin\DotNetOpenAuth.OAuth.dll
+E:\BangaloreLAJERP\CRM\bin\DotNetOpenAuth.Core.dll
+E:\BangaloreLAJERP\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\BangaloreLAJERP\CRM\bin\DotNetOpenAuth.OpenId.dll
+E:\BangaloreLAJERP\CRM\bin\WebGrease.dll
+E:\BangaloreLAJERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\BangaloreLAJERP\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+E:\BangaloreLAJERP\CRM\bin\Microsoft.Practices.Unity.dll
+E:\BangaloreLAJERP\CRM\bin\Antlr3.Runtime.dll
+E:\BangaloreLAJERP\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+E:\BangaloreLAJERP\CRM\bin\CRMDAL.pdb
+E:\BangaloreLAJERP\CRM\bin\CRMUtility.pdb
+E:\BangaloreLAJERP\CRM\bin\EntityFramework.xml
+E:\BangaloreLAJERP\CRM\bin\EntityFramework.SqlServer.xml
+E:\BangaloreLAJERP\CRM\bin\Newtonsoft.Json.xml
+E:\BangaloreLAJERP\CRM\bin\System.Net.Http.Extensions.xml
+E:\BangaloreLAJERP\CRM\bin\System.Net.Http.Formatting.xml
+E:\BangaloreLAJERP\CRM\bin\System.Net.Http.Primitives.xml
+E:\BangaloreLAJERP\CRM\bin\System.Web.Helpers.xml
+E:\BangaloreLAJERP\CRM\bin\System.Web.Http.xml
+E:\BangaloreLAJERP\CRM\bin\System.Web.Http.WebHost.xml
+E:\BangaloreLAJERP\CRM\bin\System.Web.Mvc.xml
+E:\BangaloreLAJERP\CRM\bin\System.Web.Providers.xml
+E:\BangaloreLAJERP\CRM\bin\System.Web.Razor.xml
+E:\BangaloreLAJERP\CRM\bin\System.Web.WebPages.xml
+E:\BangaloreLAJERP\CRM\bin\System.Web.WebPages.Deployment.xml
+E:\BangaloreLAJERP\CRM\bin\System.Web.WebPages.Razor.xml
+E:\BangaloreLAJERP\CRM\bin\WebMatrix.Data.xml
+E:\BangaloreLAJERP\CRM\bin\WebMatrix.WebData.xml
+E:\BangaloreLAJERP\CRM\obj\Debug\CRM.csproj.App.config
+E:\BangaloreLAJERP\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\BangaloreLAJERP\CRM\obj\Debug\CRM.dll
+E:\BangaloreLAJERP\CRM\obj\Debug\CRM.pdb
+E:\LAJ ERP\LAPERP\CRM\bin\CRM.dll.config
+E:\LAJ ERP\LAPERP\CRM\bin\CRM.dll
+E:\LAJ ERP\LAPERP\CRM\bin\CRM.pdb
+E:\LAJ ERP\LAPERP\CRM\bin\BarcodeLib.dll
+E:\LAJ ERP\LAPERP\CRM\bin\CRMDAL.dll
+E:\LAJ ERP\LAPERP\CRM\bin\CRMUtility.dll
+E:\LAJ ERP\LAPERP\CRM\bin\DataMatrix.net.dll
+E:\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.AspNet.dll
+E:\LAJ ERP\LAPERP\CRM\bin\EntityFramework.dll
+E:\LAJ ERP\LAPERP\CRM\bin\EntityFramework.SqlServer.dll
+E:\LAJ ERP\LAPERP\CRM\bin\itextsharp.dll
+E:\LAJ ERP\LAPERP\CRM\bin\log4net.dll
+E:\LAJ ERP\LAPERP\CRM\bin\LumenWorks.Framework.IO.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Microsoft.SqlServer.Types.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Microsoft.Web.Helpers.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Microsoft.Web.Infrastructure.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\LAJ ERP\LAPERP\CRM\bin\MySql.Data.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Newtonsoft.Json.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Extensions.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Formatting.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Primitives.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Helpers.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Http.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Http.WebHost.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Mvc.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Optimization.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Providers.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Razor.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.Deployment.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.dll
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.Razor.dll
+E:\LAJ ERP\LAPERP\CRM\bin\WebMatrix.Data.dll
+E:\LAJ ERP\LAPERP\CRM\bin\WebMatrix.WebData.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.OAuth.dll
+E:\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.Core.dll
+E:\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.OpenId.dll
+E:\LAJ ERP\LAPERP\CRM\bin\WebGrease.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Microsoft.Practices.Unity.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Antlr3.Runtime.dll
+E:\LAJ ERP\LAPERP\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+E:\LAJ ERP\LAPERP\CRM\bin\CRMDAL.pdb
+E:\LAJ ERP\LAPERP\CRM\bin\CRMDAL.dll.config
+E:\LAJ ERP\LAPERP\CRM\bin\CRMUtility.pdb
+E:\LAJ ERP\LAPERP\CRM\bin\EntityFramework.xml
+E:\LAJ ERP\LAPERP\CRM\bin\EntityFramework.SqlServer.xml
+E:\LAJ ERP\LAPERP\CRM\bin\Newtonsoft.Json.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Extensions.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Formatting.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Primitives.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Helpers.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Http.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Http.WebHost.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Mvc.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Providers.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.Razor.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.Deployment.xml
+E:\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.Razor.xml
+E:\LAJ ERP\LAPERP\CRM\bin\WebMatrix.Data.xml
+E:\LAJ ERP\LAPERP\CRM\bin\WebMatrix.WebData.xml
+E:\LAJ ERP\LAPERP\CRM\obj\Debug\CRM.csproj.App.config
+E:\LAJ ERP\LAPERP\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+E:\LAJ ERP\LAPERP\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\LAJ ERP\LAPERP\CRM\obj\Debug\CRM.csproj.CopyComplete
+E:\LAJ ERP\LAPERP\CRM\obj\Debug\CRM.dll
+E:\LAJ ERP\LAPERP\CRM\obj\Debug\CRM.pdb
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\CRM.dll.config
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\CRM.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\CRM.pdb
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\BarcodeLib.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\CRMDAL.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\CRMUtility.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\DataMatrix.net.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.AspNet.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\EntityFramework.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\EntityFramework.SqlServer.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\itextsharp.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\log4net.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\LumenWorks.Framework.IO.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Microsoft.SqlServer.Types.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Microsoft.Web.Helpers.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Microsoft.Web.Infrastructure.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\MySql.Data.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Newtonsoft.Json.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Extensions.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Formatting.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Primitives.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Helpers.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Http.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Http.WebHost.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Mvc.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Optimization.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Providers.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Razor.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.Deployment.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.Razor.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\WebMatrix.Data.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\WebMatrix.WebData.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.OAuth.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.Core.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\DotNetOpenAuth.OpenId.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\WebGrease.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Microsoft.Practices.Unity.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Antlr3.Runtime.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\CRMDAL.pdb
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\CRMUtility.pdb
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\EntityFramework.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\EntityFramework.SqlServer.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\Newtonsoft.Json.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Extensions.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Formatting.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Net.Http.Primitives.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Helpers.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Http.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Http.WebHost.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Mvc.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Providers.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.Razor.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.Deployment.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\System.Web.WebPages.Razor.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\WebMatrix.Data.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\bin\WebMatrix.WebData.xml
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\obj\Debug\CRM.csproj.App.config
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\obj\Debug\CRM.dll
+E:\BangloreLajErp\03032021\LAJ ERP\LAPERP\CRM\obj\Debug\CRM.pdb
+D:\Banglore\LAPERP\CRM\bin\CRM.dll.config
+D:\Banglore\LAPERP\CRM\bin\CRM.dll
+D:\Banglore\LAPERP\CRM\bin\CRM.pdb
+D:\Banglore\LAPERP\CRM\bin\BarcodeLib.dll
+D:\Banglore\LAPERP\CRM\bin\CRMDAL.dll
+D:\Banglore\LAPERP\CRM\bin\CRMUtility.dll
+D:\Banglore\LAPERP\CRM\bin\DataMatrix.net.dll
+D:\Banglore\LAPERP\CRM\bin\DotNetOpenAuth.AspNet.dll
+D:\Banglore\LAPERP\CRM\bin\EntityFramework.dll
+D:\Banglore\LAPERP\CRM\bin\EntityFramework.SqlServer.dll
+D:\Banglore\LAPERP\CRM\bin\itextsharp.dll
+D:\Banglore\LAPERP\CRM\bin\log4net.dll
+D:\Banglore\LAPERP\CRM\bin\LumenWorks.Framework.IO.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.ReportViewer.Common.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.Web.Helpers.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.Web.Infrastructure.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Banglore\LAPERP\CRM\bin\MySql.Data.dll
+D:\Banglore\LAPERP\CRM\bin\Newtonsoft.Json.dll
+D:\Banglore\LAPERP\CRM\bin\System.Net.Http.Extensions.dll
+D:\Banglore\LAPERP\CRM\bin\System.Net.Http.Formatting.dll
+D:\Banglore\LAPERP\CRM\bin\System.Net.Http.Primitives.dll
+D:\Banglore\LAPERP\CRM\bin\System.Web.Helpers.dll
+D:\Banglore\LAPERP\CRM\bin\System.Web.Http.dll
+D:\Banglore\LAPERP\CRM\bin\System.Web.Http.WebHost.dll
+D:\Banglore\LAPERP\CRM\bin\System.Web.Mvc.dll
+D:\Banglore\LAPERP\CRM\bin\System.Web.Optimization.dll
+D:\Banglore\LAPERP\CRM\bin\System.Web.Providers.dll
+D:\Banglore\LAPERP\CRM\bin\System.Web.Razor.dll
+D:\Banglore\LAPERP\CRM\bin\System.Web.WebPages.Deployment.dll
+D:\Banglore\LAPERP\CRM\bin\System.Web.WebPages.dll
+D:\Banglore\LAPERP\CRM\bin\System.Web.WebPages.Razor.dll
+D:\Banglore\LAPERP\CRM\bin\WebMatrix.Data.dll
+D:\Banglore\LAPERP\CRM\bin\WebMatrix.WebData.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Banglore\LAPERP\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Banglore\LAPERP\CRM\bin\DotNetOpenAuth.OAuth.dll
+D:\Banglore\LAPERP\CRM\bin\DotNetOpenAuth.Core.dll
+D:\Banglore\LAPERP\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Banglore\LAPERP\CRM\bin\DotNetOpenAuth.OpenId.dll
+D:\Banglore\LAPERP\CRM\bin\WebGrease.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.Practices.Unity.dll
+D:\Banglore\LAPERP\CRM\bin\Antlr3.Runtime.dll
+D:\Banglore\LAPERP\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Banglore\LAPERP\CRM\bin\CRMDAL.pdb
+D:\Banglore\LAPERP\CRM\bin\CRMUtility.pdb
+D:\Banglore\LAPERP\CRM\bin\EntityFramework.xml
+D:\Banglore\LAPERP\CRM\bin\EntityFramework.SqlServer.xml
+D:\Banglore\LAPERP\CRM\bin\Newtonsoft.Json.xml
+D:\Banglore\LAPERP\CRM\bin\System.Net.Http.Extensions.xml
+D:\Banglore\LAPERP\CRM\bin\System.Net.Http.Formatting.xml
+D:\Banglore\LAPERP\CRM\bin\System.Net.Http.Primitives.xml
+D:\Banglore\LAPERP\CRM\bin\System.Web.Helpers.xml
+D:\Banglore\LAPERP\CRM\bin\System.Web.Http.xml
+D:\Banglore\LAPERP\CRM\bin\System.Web.Http.WebHost.xml
+D:\Banglore\LAPERP\CRM\bin\System.Web.Mvc.xml
+D:\Banglore\LAPERP\CRM\bin\System.Web.Providers.xml
+D:\Banglore\LAPERP\CRM\bin\System.Web.Razor.xml
+D:\Banglore\LAPERP\CRM\bin\System.Web.WebPages.xml
+D:\Banglore\LAPERP\CRM\bin\System.Web.WebPages.Deployment.xml
+D:\Banglore\LAPERP\CRM\bin\System.Web.WebPages.Razor.xml
+D:\Banglore\LAPERP\CRM\bin\WebMatrix.Data.xml
+D:\Banglore\LAPERP\CRM\bin\WebMatrix.WebData.xml
+D:\Banglore\LAPERP\CRM\obj\Debug\CRM.csproj.App.config
+D:\Banglore\LAPERP\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\Banglore\LAPERP\CRM\obj\Debug\CRM.dll
+D:\Banglore\LAPERP\CRM\obj\Debug\CRM.pdb
+D:\JK\PlantationManagement\CRM\bin\CRM.dll.config
+D:\JK\PlantationManagement\CRM\bin\CRM.dll
+D:\JK\PlantationManagement\CRM\bin\CRM.pdb
+D:\JK\PlantationManagement\CRM\bin\BarcodeLib.dll
+D:\JK\PlantationManagement\CRM\bin\CRMDAL.dll
+D:\JK\PlantationManagement\CRM\bin\CRMUtility.dll
+D:\JK\PlantationManagement\CRM\bin\DataMatrix.net.dll
+D:\JK\PlantationManagement\CRM\bin\DotNetOpenAuth.AspNet.dll
+D:\JK\PlantationManagement\CRM\bin\EntityFramework.dll
+D:\JK\PlantationManagement\CRM\bin\EntityFramework.SqlServer.dll
+D:\JK\PlantationManagement\CRM\bin\itextsharp.dll
+D:\JK\PlantationManagement\CRM\bin\log4net.dll
+D:\JK\PlantationManagement\CRM\bin\LumenWorks.Framework.IO.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.ReportViewer.Common.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.ReportViewer.WebForms.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.SqlServer.Types.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.Web.Helpers.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.Web.Infrastructure.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\JK\PlantationManagement\CRM\bin\MySql.Data.dll
+D:\JK\PlantationManagement\CRM\bin\Newtonsoft.Json.dll
+D:\JK\PlantationManagement\CRM\bin\System.Net.Http.Extensions.dll
+D:\JK\PlantationManagement\CRM\bin\System.Net.Http.Formatting.dll
+D:\JK\PlantationManagement\CRM\bin\System.Net.Http.Primitives.dll
+D:\JK\PlantationManagement\CRM\bin\System.Web.Helpers.dll
+D:\JK\PlantationManagement\CRM\bin\System.Web.Http.dll
+D:\JK\PlantationManagement\CRM\bin\System.Web.Http.WebHost.dll
+D:\JK\PlantationManagement\CRM\bin\System.Web.Mvc.dll
+D:\JK\PlantationManagement\CRM\bin\System.Web.Optimization.dll
+D:\JK\PlantationManagement\CRM\bin\System.Web.Providers.dll
+D:\JK\PlantationManagement\CRM\bin\System.Web.Razor.dll
+D:\JK\PlantationManagement\CRM\bin\System.Web.WebPages.Deployment.dll
+D:\JK\PlantationManagement\CRM\bin\System.Web.WebPages.dll
+D:\JK\PlantationManagement\CRM\bin\System.Web.WebPages.Razor.dll
+D:\JK\PlantationManagement\CRM\bin\WebMatrix.Data.dll
+D:\JK\PlantationManagement\CRM\bin\WebMatrix.WebData.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\JK\PlantationManagement\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\JK\PlantationManagement\CRM\bin\DotNetOpenAuth.OAuth.dll
+D:\JK\PlantationManagement\CRM\bin\DotNetOpenAuth.Core.dll
+D:\JK\PlantationManagement\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\JK\PlantationManagement\CRM\bin\DotNetOpenAuth.OpenId.dll
+D:\JK\PlantationManagement\CRM\bin\WebGrease.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.Practices.Unity.dll
+D:\JK\PlantationManagement\CRM\bin\Antlr3.Runtime.dll
+D:\JK\PlantationManagement\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+D:\JK\PlantationManagement\CRM\bin\CRMDAL.pdb
+D:\JK\PlantationManagement\CRM\bin\CRMUtility.pdb
+D:\JK\PlantationManagement\CRM\bin\EntityFramework.xml
+D:\JK\PlantationManagement\CRM\bin\EntityFramework.SqlServer.xml
+D:\JK\PlantationManagement\CRM\bin\Newtonsoft.Json.xml
+D:\JK\PlantationManagement\CRM\bin\System.Net.Http.Extensions.xml
+D:\JK\PlantationManagement\CRM\bin\System.Net.Http.Formatting.xml
+D:\JK\PlantationManagement\CRM\bin\System.Net.Http.Primitives.xml
+D:\JK\PlantationManagement\CRM\bin\System.Web.Helpers.xml
+D:\JK\PlantationManagement\CRM\bin\System.Web.Http.xml
+D:\JK\PlantationManagement\CRM\bin\System.Web.Http.WebHost.xml
+D:\JK\PlantationManagement\CRM\bin\System.Web.Mvc.xml
+D:\JK\PlantationManagement\CRM\bin\System.Web.Providers.xml
+D:\JK\PlantationManagement\CRM\bin\System.Web.Razor.xml
+D:\JK\PlantationManagement\CRM\bin\System.Web.WebPages.xml
+D:\JK\PlantationManagement\CRM\bin\System.Web.WebPages.Deployment.xml
+D:\JK\PlantationManagement\CRM\bin\System.Web.WebPages.Razor.xml
+D:\JK\PlantationManagement\CRM\bin\WebMatrix.Data.xml
+D:\JK\PlantationManagement\CRM\bin\WebMatrix.WebData.xml
+D:\JK\PlantationManagement\CRM\obj\Debug\CRM.csproj.App.config
+D:\JK\PlantationManagement\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\JK\PlantationManagement\CRM\obj\Debug\CRM.dll
+D:\JK\PlantationManagement\CRM\obj\Debug\CRM.pdb
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\CRM.dll.config
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\CRM.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\CRM.pdb
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\BarcodeLib.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\CRMDAL.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\CRMUtility.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\DataMatrix.net.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.AspNet.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\EntityFramework.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\EntityFramework.SqlServer.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\itextsharp.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\log4net.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\LumenWorks.Framework.IO.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Microsoft.SqlServer.Types.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Microsoft.Web.Helpers.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Microsoft.Web.Infrastructure.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\MySql.Data.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Newtonsoft.Json.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Net.Http.Extensions.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Net.Http.Formatting.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Net.Http.Primitives.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Helpers.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Http.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Http.WebHost.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Mvc.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Optimization.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Providers.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Razor.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.Deployment.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.Razor.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\WebMatrix.Data.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\WebMatrix.WebData.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.OAuth.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.Core.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.OpenId.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\WebGrease.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Microsoft.Practices.Unity.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Antlr3.Runtime.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\CRMDAL.pdb
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\CRMDAL.dll.config
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\CRMUtility.pdb
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\EntityFramework.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\EntityFramework.SqlServer.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\Newtonsoft.Json.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Net.Http.Extensions.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Net.Http.Formatting.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Net.Http.Primitives.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Helpers.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Http.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Http.WebHost.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Mvc.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Providers.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.Razor.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.Deployment.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.Razor.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\WebMatrix.Data.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\bin\WebMatrix.WebData.xml
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\obj\Debug\CRM.csproj.App.config
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\obj\Debug\CRM.csproj.CopyComplete
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\obj\Debug\CRM.dll
+D:\Sandeep\JK\04052021\PlantationManagement\CRM\obj\Debug\CRM.pdb
+E:\04052021\PlantationManagement\CRM\bin\CRM.dll.config
+E:\04052021\PlantationManagement\CRM\bin\CRM.dll
+E:\04052021\PlantationManagement\CRM\bin\CRM.pdb
+E:\04052021\PlantationManagement\CRM\bin\BarcodeLib.dll
+E:\04052021\PlantationManagement\CRM\bin\CRMDAL.dll
+E:\04052021\PlantationManagement\CRM\bin\CRMUtility.dll
+E:\04052021\PlantationManagement\CRM\bin\DataMatrix.net.dll
+E:\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.AspNet.dll
+E:\04052021\PlantationManagement\CRM\bin\EntityFramework.dll
+E:\04052021\PlantationManagement\CRM\bin\EntityFramework.SqlServer.dll
+E:\04052021\PlantationManagement\CRM\bin\itextsharp.dll
+E:\04052021\PlantationManagement\CRM\bin\log4net.dll
+E:\04052021\PlantationManagement\CRM\bin\LumenWorks.Framework.IO.dll
+E:\04052021\PlantationManagement\CRM\bin\Microsoft.SqlServer.Types.dll
+E:\04052021\PlantationManagement\CRM\bin\Microsoft.Web.Helpers.dll
+E:\04052021\PlantationManagement\CRM\bin\Microsoft.Web.Infrastructure.dll
+E:\04052021\PlantationManagement\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\04052021\PlantationManagement\CRM\bin\MySql.Data.dll
+E:\04052021\PlantationManagement\CRM\bin\Newtonsoft.Json.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Net.Http.Extensions.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Net.Http.Formatting.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Net.Http.Primitives.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Helpers.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Http.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Http.WebHost.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Mvc.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Optimization.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Providers.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Razor.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.Deployment.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.dll
+E:\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.Razor.dll
+E:\04052021\PlantationManagement\CRM\bin\WebMatrix.Data.dll
+E:\04052021\PlantationManagement\CRM\bin\WebMatrix.WebData.dll
+E:\04052021\PlantationManagement\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.OAuth.dll
+E:\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.Core.dll
+E:\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\04052021\PlantationManagement\CRM\bin\DotNetOpenAuth.OpenId.dll
+E:\04052021\PlantationManagement\CRM\bin\WebGrease.dll
+E:\04052021\PlantationManagement\CRM\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\04052021\PlantationManagement\CRM\bin\Microsoft.Practices.ServiceLocation.dll
+E:\04052021\PlantationManagement\CRM\bin\Microsoft.Practices.Unity.dll
+E:\04052021\PlantationManagement\CRM\bin\Antlr3.Runtime.dll
+E:\04052021\PlantationManagement\CRM\bin\Microsoft.Practices.Unity.Interception.dll
+E:\04052021\PlantationManagement\CRM\bin\CRMDAL.pdb
+E:\04052021\PlantationManagement\CRM\bin\CRMDAL.dll.config
+E:\04052021\PlantationManagement\CRM\bin\CRMUtility.pdb
+E:\04052021\PlantationManagement\CRM\bin\EntityFramework.xml
+E:\04052021\PlantationManagement\CRM\bin\EntityFramework.SqlServer.xml
+E:\04052021\PlantationManagement\CRM\bin\Newtonsoft.Json.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Net.Http.Extensions.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Net.Http.Formatting.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Net.Http.Primitives.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Helpers.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Http.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Http.WebHost.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Mvc.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Providers.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Web.Razor.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.Deployment.xml
+E:\04052021\PlantationManagement\CRM\bin\System.Web.WebPages.Razor.xml
+E:\04052021\PlantationManagement\CRM\bin\WebMatrix.Data.xml
+E:\04052021\PlantationManagement\CRM\bin\WebMatrix.WebData.xml
+E:\04052021\PlantationManagement\CRM\obj\Debug\CRM.csproj.App.config
+E:\04052021\PlantationManagement\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+E:\04052021\PlantationManagement\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\04052021\PlantationManagement\CRM\obj\Debug\CRM.csproj.CopyComplete
+E:\04052021\PlantationManagement\CRM\obj\Debug\CRM.dll
+E:\04052021\PlantationManagement\CRM\obj\Debug\CRM.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\CRM.dll.config
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\CRM.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\CRM.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\Customer.Model.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\AutoMapper.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\System.ValueTuple.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.dll.config
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\Customer.Model.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.dll.config
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\AutoMapper.pdb
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\AutoMapper.xml
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\bin\System.ValueTuple.xml
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.App.config
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.CopyComplete
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.dll
+D:\Projects\test2\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\CRM.dll.config
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\CRM.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\CRM.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\Customer.Model.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\AutoMapper.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\System.ValueTuple.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.dll.config
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\Customer.Model.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.dll.config
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\AutoMapper.pdb
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\AutoMapper.xml
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\bin\System.ValueTuple.xml
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.App.config
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.CopyComplete
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.dll
+D:\Projects\Final eCustomer\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\CRM.dll.config
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\CRM.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\CRM.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Customer.Model.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Cors.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Common.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Common.WebHost.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Mvc.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.WebApi.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.WebApi.WebHost.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Owin.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\System.Web.Cors.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\System.Web.Http.Cors.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\WebActivatorEx.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\System.ValueTuple.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.dll.config
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.dll.config
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Customer.Model.pdb
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Cors.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Common.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Common.WebHost.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Mvc.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.WebApi.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.WebApi.WebHost.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\bin\System.Web.Http.Cors.xml
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.App.config
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.CopyComplete
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.dll
+D:\Projects\Final eCustomer\Copy15Nov23\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.pdb
+C:\New\eCustomerCRM\Customer.API\CRM\bin\CRM.dll.config
+C:\New\eCustomerCRM\Customer.API\CRM\bin\CRM.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\CRM.pdb
+C:\New\eCustomerCRM\Customer.API\CRM\bin\BarcodeLib.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\CopilotDev.NET.Api.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Customer.Model.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DataMatrix.net.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.AspNet.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.Core.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\EntityFramework.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\EntityFramework.SqlServer.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\itextsharp.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\log4net.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\LumenWorks.Framework.IO.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Cors.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Web.Helpers.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Web.Infrastructure.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\MySql.Data.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Newtonsoft.Json.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Common.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Common.WebHost.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Mvc.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.WebApi.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.WebApi.WebHost.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Owin.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Net.Http.Extensions.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Net.Http.Formatting.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Net.Http.Primitives.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Cors.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Helpers.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Http.Cors.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Http.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Http.WebHost.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Mvc.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Optimization.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Providers.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Razor.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.WebPages.Deployment.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.WebPages.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.WebPages.Razor.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\WebActivatorEx.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\WebMatrix.Data.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\WebMatrix.WebData.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.ValueTuple.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Org.Mentalis.Security.Cryptography.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\WebGrease.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Mono.Math.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Antlr3.Runtime.dll
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.pdb
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Customer.BusinessLogic.dll.config
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.pdb
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Customer.Data.Application.dll.config
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Customer.Model.pdb
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.AspNet.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.Core.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\EntityFramework.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\EntityFramework.SqlServer.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Cors.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Newtonsoft.Json.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Common.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Common.WebHost.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.Mvc.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.WebApi.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Ninject.Web.WebApi.WebHost.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Net.Http.Extensions.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Net.Http.Formatting.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Net.Http.Primitives.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Helpers.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Http.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Http.Cors.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Http.WebHost.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Mvc.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Providers.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.Razor.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.WebPages.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.WebPages.Deployment.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\System.Web.WebPages.Razor.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\WebMatrix.Data.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\WebMatrix.WebData.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Org.Mentalis.Security.Cryptography.xml
+C:\New\eCustomerCRM\Customer.API\CRM\bin\Mono.Math.xml
+C:\New\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.App.config
+C:\New\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+C:\New\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\New\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.csproj.Up2Date
+C:\New\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.dll
+C:\New\eCustomerCRM\Customer.API\CRM\obj\Debug\CRM.pdb
+D:\Customer.API_2\Customer.API\CRM\bin\CRM.dll.config
+D:\Customer.API_2\Customer.API\CRM\bin\CRM.dll
+D:\Customer.API_2\Customer.API\CRM\bin\CRM.pdb
+D:\Customer.API_2\Customer.API\CRM\bin\BarcodeLib.dll
+D:\Customer.API_2\Customer.API\CRM\bin\CopilotDev.NET.Api.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Customer.BusinessLogic.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Customer.Data.Application.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Customer.Model.dll
+D:\Customer.API_2\Customer.API\CRM\bin\DataMatrix.net.dll
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.AspNet.dll
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.Core.dll
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.dll
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.dll
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Customer.API_2\Customer.API\CRM\bin\EntityFramework.dll
+D:\Customer.API_2\Customer.API\CRM\bin\EntityFramework.SqlServer.dll
+D:\Customer.API_2\Customer.API\CRM\bin\itextsharp.dll
+D:\Customer.API_2\Customer.API\CRM\bin\log4net.dll
+D:\Customer.API_2\Customer.API\CRM\bin\LumenWorks.Framework.IO.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.Cors.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.Security.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Web.Helpers.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Web.Infrastructure.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Customer.API_2\Customer.API\CRM\bin\MySql.Data.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Newtonsoft.Json.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.Web.Common.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.Web.Common.WebHost.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.Web.Mvc.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.Web.WebApi.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.Web.WebApi.WebHost.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Owin.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Net.Http.Extensions.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Net.Http.Formatting.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Net.Http.Primitives.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Cors.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Helpers.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Http.Cors.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Http.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Http.WebHost.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Mvc.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Optimization.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Providers.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Razor.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.WebPages.Deployment.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.WebPages.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.WebPages.Razor.dll
+D:\Customer.API_2\Customer.API\CRM\bin\WebActivatorEx.dll
+D:\Customer.API_2\Customer.API\CRM\bin\WebMatrix.Data.dll
+D:\Customer.API_2\Customer.API\CRM\bin\WebMatrix.WebData.dll
+D:\Customer.API_2\Customer.API\CRM\bin\System.ValueTuple.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Org.Mentalis.Security.Cryptography.dll
+D:\Customer.API_2\Customer.API\CRM\bin\WebGrease.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Mono.Math.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Antlr3.Runtime.dll
+D:\Customer.API_2\Customer.API\CRM\bin\Customer.BusinessLogic.pdb
+D:\Customer.API_2\Customer.API\CRM\bin\Customer.BusinessLogic.dll.config
+D:\Customer.API_2\Customer.API\CRM\bin\Customer.Data.Application.pdb
+D:\Customer.API_2\Customer.API\CRM\bin\Customer.Data.Application.dll.config
+D:\Customer.API_2\Customer.API\CRM\bin\Customer.Model.pdb
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.AspNet.xml
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.Core.xml
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.xml
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.xml
+D:\Customer.API_2\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Customer.API_2\Customer.API\CRM\bin\EntityFramework.xml
+D:\Customer.API_2\Customer.API\CRM\bin\EntityFramework.SqlServer.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.Cors.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.Security.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Newtonsoft.Json.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.Web.Common.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.Web.Common.WebHost.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.Web.Mvc.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.Web.WebApi.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Ninject.Web.WebApi.WebHost.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Net.Http.Extensions.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Net.Http.Formatting.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Net.Http.Primitives.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Helpers.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Http.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Http.Cors.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Http.WebHost.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Mvc.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Providers.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.Razor.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.WebPages.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.WebPages.Deployment.xml
+D:\Customer.API_2\Customer.API\CRM\bin\System.Web.WebPages.Razor.xml
+D:\Customer.API_2\Customer.API\CRM\bin\WebMatrix.Data.xml
+D:\Customer.API_2\Customer.API\CRM\bin\WebMatrix.WebData.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Org.Mentalis.Security.Cryptography.xml
+D:\Customer.API_2\Customer.API\CRM\bin\Mono.Math.xml
+D:\Customer.API_2\Customer.API\CRM\obj\Debug\CRM.csproj.App.config
+D:\Customer.API_2\Customer.API\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+D:\Customer.API_2\Customer.API\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Customer.API_2\Customer.API\CRM\obj\Debug\CRM.csproj.Up2Date
+D:\Customer.API_2\Customer.API\CRM\obj\Debug\CRM.dll
+D:\Customer.API_2\Customer.API\CRM\obj\Debug\CRM.pdb
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\CRM.dll.config
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\CRM.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\CRM.pdb
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\BarcodeLib.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\CopilotDev.NET.Api.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Customer.BusinessLogic.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Customer.Data.Application.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Customer.Model.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DataMatrix.net.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.AspNet.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.Core.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\EntityFramework.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\EntityFramework.SqlServer.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\itextsharp.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\log4net.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\LumenWorks.Framework.IO.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.Cors.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.Security.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Web.Helpers.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Web.Infrastructure.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\MySql.Data.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Newtonsoft.Json.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.Web.Common.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.Web.Common.WebHost.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.Web.Mvc.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.Web.WebApi.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.Web.WebApi.WebHost.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Owin.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Net.Http.Extensions.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Net.Http.Formatting.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Net.Http.Primitives.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Cors.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Helpers.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Http.Cors.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Http.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Http.WebHost.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Mvc.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Optimization.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Providers.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Razor.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.WebPages.Deployment.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.WebPages.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.WebPages.Razor.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\WebActivatorEx.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\WebMatrix.Data.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\WebMatrix.WebData.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.ValueTuple.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Org.Mentalis.Security.Cryptography.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\WebGrease.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Mono.Math.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Antlr3.Runtime.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Customer.BusinessLogic.pdb
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Customer.BusinessLogic.dll.config
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Customer.Data.Application.pdb
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Customer.Data.Application.dll.config
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Customer.Model.pdb
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.AspNet.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.Core.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\EntityFramework.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\EntityFramework.SqlServer.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.Cors.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.Security.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Newtonsoft.Json.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.Web.Common.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.Web.Common.WebHost.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.Web.Mvc.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.Web.WebApi.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Ninject.Web.WebApi.WebHost.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Net.Http.Extensions.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Net.Http.Formatting.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Net.Http.Primitives.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Helpers.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Http.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Http.Cors.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Http.WebHost.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Mvc.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Providers.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.Razor.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.WebPages.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.WebPages.Deployment.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\System.Web.WebPages.Razor.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\WebMatrix.Data.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\WebMatrix.WebData.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Org.Mentalis.Security.Cryptography.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\bin\Mono.Math.xml
+D:\Customer.API_2 - Copy\Customer.API\CRM\obj\Debug\CRM.csproj.App.config
+D:\Customer.API_2 - Copy\Customer.API\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+D:\Customer.API_2 - Copy\Customer.API\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Customer.API_2 - Copy\Customer.API\CRM\obj\Debug\CRM.csproj.Up2Date
+D:\Customer.API_2 - Copy\Customer.API\CRM\obj\Debug\CRM.dll
+D:\Customer.API_2 - Copy\Customer.API\CRM\obj\Debug\CRM.pdb
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\CRM.dll.config
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\CRM.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\CRM.pdb
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\BarcodeLib.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\CopilotDev.NET.Api.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Customer.BusinessLogic.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Customer.Data.Application.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Customer.Model.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DataMatrix.net.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.AspNet.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.Core.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\EntityFramework.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\EntityFramework.SqlServer.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\itextsharp.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\log4net.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\LumenWorks.Framework.IO.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.Cors.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.Security.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Web.Helpers.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Web.Infrastructure.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\MySql.Data.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Newtonsoft.Json.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.Web.Common.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.Web.Common.WebHost.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.Web.Mvc.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.Web.WebApi.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.Web.WebApi.WebHost.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Owin.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Net.Http.Extensions.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Net.Http.Formatting.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Net.Http.Primitives.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Cors.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Helpers.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Http.Cors.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Http.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Http.WebHost.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Mvc.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Optimization.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Providers.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Razor.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.WebPages.Deployment.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.WebPages.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.WebPages.Razor.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\WebActivatorEx.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\WebMatrix.Data.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\WebMatrix.WebData.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.ValueTuple.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Org.Mentalis.Security.Cryptography.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\WebGrease.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Mono.Math.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Antlr3.Runtime.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Customer.BusinessLogic.pdb
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Customer.BusinessLogic.dll.config
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Customer.Data.Application.pdb
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Customer.Data.Application.dll.config
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Customer.Model.pdb
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.AspNet.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.Core.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\EntityFramework.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\EntityFramework.SqlServer.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.Cors.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.Security.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Newtonsoft.Json.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.Web.Common.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.Web.Common.WebHost.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.Web.Mvc.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.Web.WebApi.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Ninject.Web.WebApi.WebHost.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Net.Http.Extensions.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Net.Http.Formatting.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Net.Http.Primitives.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Helpers.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Http.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Http.Cors.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Http.WebHost.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Mvc.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Providers.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.Razor.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.WebPages.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.WebPages.Deployment.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\System.Web.WebPages.Razor.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\WebMatrix.Data.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\WebMatrix.WebData.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Org.Mentalis.Security.Cryptography.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\bin\Mono.Math.xml
+D:\Customer.API_2 (working)\Customer.API\CRM\obj\Debug\CRM.csproj.App.config
+D:\Customer.API_2 (working)\Customer.API\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+D:\Customer.API_2 (working)\Customer.API\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Customer.API_2 (working)\Customer.API\CRM\obj\Debug\CRM.csproj.Up2Date
+D:\Customer.API_2 (working)\Customer.API\CRM\obj\Debug\CRM.dll
+D:\Customer.API_2 (working)\Customer.API\CRM\obj\Debug\CRM.pdb
